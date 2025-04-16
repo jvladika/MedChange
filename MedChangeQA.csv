@@ -1,0 +1,1536 @@
+,Question,Newest Label,Outdated Label
+0,Does carpal tunnel release surgery provide better outcomes than non-surgical treatment for carpal tunnel syndrome?,REFUTED,--
+1,Is cranberry juice effective for treating urinary tract infections?,SUPPORTED,REFUTED
+2,Is add-on lamotrigine effective in reducing seizures for people with drug-resistant focal epilepsy?,SUPPORTED,NOT ENOUGH INFORMATION
+3,Do statins help reduce cardiovascular events in adults with chronic kidney disease not requiring dialysis?,SUPPORTED,NOT ENOUGH INFORMATION
+4,Do antibiotics effectively reduce pain in children with acute otitis media?,SUPPORTED,NOT ENOUGH INFORMATION
+5,Do cranberry products help prevent urinary tract infections in certain populations?,NOT ENOUGH INFORMATION,--
+6,Does IVF improve pregnancy outcomes compared to other fertility treatments?,NOT ENOUGH INFORMATION,--
+7,Do antioxidant vitamin and mineral supplements help slow the progression of age-related macular degeneration?,NOT ENOUGH INFORMATION,--
+8,Does cell salvage reduce the need for blood transfusions in elective surgery?,REFUTED,NOT ENOUGH INFORMATION
+9,Is ICSI more effective than c-IVF for couples with normal sperm count and motility?,NOT ENOUGH INFORMATION,--
+10,Is clobetasol propionate cream an effective treatment for bullous pemphigoid?,SUPPORTED,--
+11,Can interventions help prevent kidney complications in people with sickle cell disease?,SUPPORTED,REFUTED
+12,Are combined oral contraceptive pills effective for managing painful menstrual cramps?,SUPPORTED,--
+13,Does NIPPV reduce the need for additional ventilatory support compared to NCPAP in preterm infants after extubation?,SUPPORTED,--
+14,Is sacral colpopexy a safer and more effective surgical option for apical vaginal prolapse compared to other interventions?,NOT ENOUGH INFORMATION,SUPPORTED
+15,Do social network and social support interventions improve outcomes in cardiac rehabilitation for people with heart disease?,NOT ENOUGH INFORMATION,SUPPORTED
+16,Does Serenoa repens help improve lower urinary tract symptoms in men with benign prostatic hyperplasia?,SUPPORTED,NOT ENOUGH INFORMATION
+17,Does adding pentoxifylline to antibiotic therapy improve outcomes in neonates with sepsis or necrotising enterocolitis?,SUPPORTED,--
+18,"Does the effectiveness of nicotine replacement therapy vary based on its form, dose, or timing of use?",NOT ENOUGH INFORMATION,--
+19,Does nebulised hypertonic saline improve lung function in people with cystic fibrosis?,SUPPORTED,--
+20,Are IL-6 blocking agents effective in treating severe COVID-19 compared to standard care or placebo?,SUPPORTED,REFUTED
+21,Can antidepressant medications help people quit smoking cigarettes?,REFUTED,--
+22,Does convalescent plasma transfusion reduce mortality in patients with COVID-19?,REFUTED,SUPPORTED
+23,Do anticholinergic drugs improve symptoms of overactive bladder compared to placebo?,NOT ENOUGH INFORMATION,--
+24,Are airway clearance techniques effective for people with cystic fibrosis?,SUPPORTED,NOT ENOUGH INFORMATION
+25,Are mechanical methods for inducing labor as effective and safe as pharmacological methods?,SUPPORTED,--
+26,Does postnatal administration of phenobarbital reduce the risk of intraventricular hemorrhage in preterm infants?,SUPPORTED,REFUTED
+27,Do antibiotics improve recovery from acute bacterial conjunctivitis compared to no treatment?,SUPPORTED,NOT ENOUGH INFORMATION
+28,Does inducing labor for suspected fetal macrosomia reduce the risk of birth complications?,NOT ENOUGH INFORMATION,REFUTED
+29,Does planned hospital birth reduce risks for low-risk pregnant women compared to planned home birth?,REFUTED,NOT ENOUGH INFORMATION
+30,Do interventions improve adherence to iron chelation therapy in people with sickle cell disease or thalassaemia?,SUPPORTED,REFUTED
+31,Does splinting help improve symptoms in people with carpal tunnel syndrome?,SUPPORTED,REFUTED
+32,Are treatments for acute non-arteritic central retinal artery occlusion effective?,SUPPORTED,--
+33,Does remdesivir improve clinical outcomes in patients with COVID-19 compared to standard care?,SUPPORTED,NOT ENOUGH INFORMATION
+34,Is telerehabilitation effective for improving quality of life in people with low vision?,SUPPORTED,--
+35,Are glucocorticoids effective in treating croup in children?,REFUTED,SUPPORTED
+36,Do bisphosphonates improve bone health in people with cystic fibrosis?,SUPPORTED,NOT ENOUGH INFORMATION
+37,Do inhaled corticosteroids help reduce the risk of bronchopulmonary dysplasia in preterm infants?,NOT ENOUGH INFORMATION,REFUTED
+38,Do inhaled bronchodilators help reduce complications in acute chest syndrome for people with sickle cell disease?,REFUTED,--
+39,Can antibody tests accurately detect current or past SARS-CoV-2 infection?,SUPPORTED,--
+40,Are systemic corticosteroids effective in reducing mortality for hospitalized COVID-19 patients?,SUPPORTED,--
+41,Does long-term inhaled antibiotic therapy improve lung function in people with cystic fibrosis?,NOT ENOUGH INFORMATION,--
+42,Do antifibrinolytic treatments improve outcomes for patients with aneurysmal subarachnoid haemorrhage?,NOT ENOUGH INFORMATION,SUPPORTED
+43,Does breastfeeding support increase the duration and exclusivity of breastfeeding among mothers?,SUPPORTED,--
+44,Is infant cataract surgery more effective than no surgery for treating bilateral congenital cataracts in children under 2 years old?,SUPPORTED,--
+45,Does using tap water for wound cleansing affect healing compared to no cleansing?,SUPPORTED,--
+46,Is surgery an effective treatment for obesity in children and adolescents?,SUPPORTED,NOT ENOUGH INFORMATION
+47,Do interventions aimed at improving mobility after hip fracture surgery lead to better outcomes than conventional care?,NOT ENOUGH INFORMATION,--
+48,Do antifungal treatments improve clinical status in patients with allergic bronchopulmonary aspergillosis and cystic fibrosis?,SUPPORTED,--
+49,Does hydroxyurea help reduce pain and complications in people with sickle cell disease?,NOT ENOUGH INFORMATION,REFUTED
+50,Does physical activity improve exercise capacity in people with cystic fibrosis?,SUPPORTED,--
+51,Does carotid patch angioplasty lower the risk of severe arterial restenosis and recurrent strokes compared to primary closure?,NOT ENOUGH INFORMATION,--
+52,Are rapid antigen tests effective for diagnosing SARS-CoV-2 infection?,NOT ENOUGH INFORMATION,--
+53,Is vagus nerve stimulation an effective treatment for drug-resistant focal epilepsy?,SUPPORTED,--
+54,Does using a shunt during carotid endarterectomy improve patient outcomes?,SUPPORTED,NOT ENOUGH INFORMATION
+55,Does surgery provide better outcomes than non-surgical treatment for proximal humeral fractures?,REFUTED,NOT ENOUGH INFORMATION
+56,Do WASH interventions help prevent soil-transmitted helminth infections?,NOT ENOUGH INFORMATION,--
+57,Can signs and symptoms accurately determine if someone has COVID-19?,SUPPORTED,NOT ENOUGH INFORMATION
+58,Does blastocyst-stage embryo transfer improve live birth rates compared to cleavage-stage transfer?,NOT ENOUGH INFORMATION,SUPPORTED
+59,Does risedronate help prevent osteoporotic fractures in postmenopausal women?,SUPPORTED,--
+60,Is tacrolimus an effective treatment for corticosteroid-refractory ulcerative colitis?,NOT ENOUGH INFORMATION,--
+61,Do repeat doses of prenatal corticosteroids improve outcomes for infants at risk of preterm birth?,SUPPORTED,--
+62,Do anticoagulants provide benefits for people hospitalized with COVID-19?,SUPPORTED,REFUTED
+63,Do medications help reduce PTSD symptoms in adults?,SUPPORTED,NOT ENOUGH INFORMATION
+64,Does a structured discharge plan for patients reduce hospital readmissions?,REFUTED,NOT ENOUGH INFORMATION
+65,Are cephalomedullary nails more effective than extramedullary fixation implants for treating extracapsular hip fractures in older adults?,NOT ENOUGH INFORMATION,--
+66,Does delaying enteral feeding for very preterm or VLBW infants reduce the risk of necrotising enterocolitis or death?,NOT ENOUGH INFORMATION,SUPPORTED
+67,Does immediate oral antiplatelet therapy improve outcomes in patients with acute ischaemic stroke?,SUPPORTED,NOT ENOUGH INFORMATION
+68,Do self-management interventions improve health-related quality of life for people with COPD compared to usual care?,SUPPORTED,NOT ENOUGH INFORMATION
+69,Do orthodontic treatments effectively correct posterior crossbites in children and adolescents?,SUPPORTED,NOT ENOUGH INFORMATION
+70,Is a restrictive red blood cell transfusion strategy as effective as a liberal strategy in reducing 30-day mortality?,REFUTED,NOT ENOUGH INFORMATION
+71,Does dietary advice improve survival in adults with disease-related malnutrition?,REFUTED,SUPPORTED
+72,Is injection sclerotherapy an effective and safe treatment for varicose veins?,SUPPORTED,--
+73,Do antibiotics help reduce symptoms of sore throat in patients?,SUPPORTED,--
+74,Does providing active information improve knowledge and reduce anxiety in stroke survivors?,SUPPORTED,NOT ENOUGH INFORMATION
+75,Does adding growth hormone to IVF treatment improve outcomes for women with infertility?,SUPPORTED,NOT ENOUGH INFORMATION
+76,Do macrolides help reduce asthma exacerbations compared to placebo?,SUPPORTED,--
+77,Do rotavirus vaccines effectively prevent diarrhoea in children?,NOT ENOUGH INFORMATION,--
+78,Do late systemic postnatal corticosteroids help reduce the risks of mortality and bronchopulmonary dysplasia in preterm infants?,REFUTED,--
+79,Does exercise-based cardiac rehabilitation improve health outcomes for people with coronary heart disease?,SUPPORTED,NOT ENOUGH INFORMATION
+80,Do interventions aimed at women effectively increase cervical screening uptake?,REFUTED,--
+81,Does early anticoagulation improve outcomes for patients with acute ischaemic stroke?,SUPPORTED,--
+82,Do systemic postnatal corticosteroids help prevent bronchopulmonary dysplasia in preterm infants?,REFUTED,NOT ENOUGH INFORMATION
+83,Does starting nasal CPAP early in preterm infants reduce the need for mechanical ventilation and the risk of bronchopulmonary dysplasia?,NOT ENOUGH INFORMATION,SUPPORTED
+84,Does carotid endarterectomy under local anaesthetic reduce the risk of stroke and death compared to general anaesthetic?,SUPPORTED,NOT ENOUGH INFORMATION
+85,Do oral anticoagulants provide more benefit than risk for cancer patients undergoing treatment?,NOT ENOUGH INFORMATION,--
+86,Do antibiotics help prevent infections in cancer patients with long-term central venous catheters?,SUPPORTED,NOT ENOUGH INFORMATION
+87,Does surgical management improve ulcer healing in patients with deep venous insufficiency?,NOT ENOUGH INFORMATION,SUPPORTED
+88,Does paracetamol help relieve perineal pain after childbirth?,SUPPORTED,NOT ENOUGH INFORMATION
+89,Do school-based interventions effectively increase physical activity and improve fitness in children and adolescents?,REFUTED,NOT ENOUGH INFORMATION
+90,Do educational meetings improve professional practice and healthcare outcomes?,NOT ENOUGH INFORMATION,--
+91,Does patching improve outcomes for children with intermittent exotropia compared to observation?,SUPPORTED,--
+92,Is colchicine an effective treatment for acute gout?,SUPPORTED,NOT ENOUGH INFORMATION
+93,Does slowly advancing enteral feed volumes reduce the risk of necrotising enterocolitis in very preterm or VLBW infants?,REFUTED,SUPPORTED
+94,Does chronic non-invasive ventilation improve outcomes for people with COPD?,REFUTED,--
+95,Do PW-led treatments improve mental health outcomes in low- and middle-income countries?,NOT ENOUGH INFORMATION,--
+96,Can adjuvant drug treatment improve the outcomes of dialysis access in patients with end-stage renal disease?,SUPPORTED,--
+97,Does double intrauterine insemination (IUI) improve pregnancy rates compared to single IUI for subfertile couples?,SUPPORTED,--
+98,Is using an opioid effective for treating neonatal abstinence syndrome in newborns?,SUPPORTED,--
+99,Do non-pharmacological interventions improve functional ability in people with spatial neglect after stroke?,SUPPORTED,--
+100,Is one method of tube feeding more effective than the other for preterm infants under 1500 grams?,SUPPORTED,--
+101,Is combination intravenous antibiotic therapy more effective than single therapy for treating respiratory infections in cystic fibrosis?,NOT ENOUGH INFORMATION,--
+102,Does early postnatal discharge from hospital affect the health outcomes of mothers and infants?,NOT ENOUGH INFORMATION,--
+103,Do anthelmintics help reduce seizures in people with neurocysticercosis?,SUPPORTED,NOT ENOUGH INFORMATION
+104,Is using a sedative effective and safe for treating neonatal abstinence syndrome due to opioid withdrawal?,REFUTED,--
+105,Does long-term oral anticoagulation reduce deaths and stroke in people with heart failure in sinus rhythm?,NOT ENOUGH INFORMATION,--
+106,Does treating gastro-oesophageal reflux disease help improve asthma symptoms?,NOT ENOUGH INFORMATION,REFUTED
+107,Do topical emollients reduce the risk of invasive infection in preterm infants?,NOT ENOUGH INFORMATION,--
+108,Is quarantine effective in reducing the spread of COVID-19?,REFUTED,SUPPORTED
+109,Do drugs that reduce gastric acidity improve fat absorption in people with cystic fibrosis?,REFUTED,SUPPORTED
+110,Does treating varicoceles improve pregnancy rates in couples where the male has a varicocele?,NOT ENOUGH INFORMATION,--
+111,Are anti-seizure medications effective for reducing seizures in Lennox-Gastaut syndrome?,REFUTED,--
+112,Does thromboprophylaxis during pregnancy reduce the risk of venous thromboembolism in at-risk women?,NOT ENOUGH INFORMATION,REFUTED
+113,Do international travel-related control measures effectively reduce the spread of infectious diseases during a pandemic?,SUPPORTED,NOT ENOUGH INFORMATION
+114,Does dornase alfa improve lung function in cystic fibrosis patients compared to placebo?,SUPPORTED,--
+115,Does assisted hatching improve live birth rates in assisted conception?,SUPPORTED,NOT ENOUGH INFORMATION
+116,Does zinc supplementation during pregnancy improve maternal and neonatal outcomes?,NOT ENOUGH INFORMATION,REFUTED
+117,Does antibiotic prophylaxis reduce the risk of pneumococcal infection in children with sickle cell disease?,REFUTED,SUPPORTED
+118,Does home-based end-of-life care increase the likelihood of dying at home?,REFUTED,NOT ENOUGH INFORMATION
+119,Is umbilical vein injection of saline or uterotonics effective for treating retained placenta?,SUPPORTED,--
+120,Do different classes of antibiotics given before a caesarean section affect the risk of infection in mothers?,NOT ENOUGH INFORMATION,--
+121,Do preterm infants grow better on formulas with high medium chain triglycerides compared to those with low medium chain triglycerides?,SUPPORTED,--
+122,Is endometrial resection or ablation an effective alternative to hysterectomy for treating heavy menstrual bleeding?,NOT ENOUGH INFORMATION,--
+123,Is there a difference in safety and efficacy between synthetic and venous patch materials used in carotid patch angioplasty?,NOT ENOUGH INFORMATION,--
+124,Do topical antibiotic treatments help prevent respiratory infections in patients on mechanical ventilation?,REFUTED,--
+125,Is ethosuximide the best initial treatment for children and adolescents with absence seizures?,NOT ENOUGH INFORMATION,--
+126,Is gabapentin effective as an add-on treatment for drug-resistant focal epilepsy?,REFUTED,NOT ENOUGH INFORMATION
+127,Does tyrosine supplementation improve outcomes for people with phenylketonuria?,NOT ENOUGH INFORMATION,--
+128,Does reducing sodium intake have an effect on blood pressure?,NOT ENOUGH INFORMATION,REFUTED
+129,Do peripheral nerve blocks improve pain management for adults with hip fractures?,REFUTED,--
+130,Do pneumococcal conjugate vaccines help prevent acute otitis media in children?,SUPPORTED,NOT ENOUGH INFORMATION
+131,Are surgical interventions more effective than non-surgical treatments for basal cell carcinoma?,SUPPORTED,NOT ENOUGH INFORMATION
+132,Do low protein diets help slow the progression of chronic kidney disease to end-stage kidney disease?,SUPPORTED,--
+133,Is there a beneficial effect of the intervention on patient outcomes?,SUPPORTED,--
+134,Does tubal surgery improve pregnancy outcomes in women with hydrosalpinges undergoing assisted reproductive technology?,SUPPORTED,--
+135,Does continuous positive airway pressure (CPAP) reduce the need for mechanical ventilation in preterm infants with respiratory distress?,NOT ENOUGH INFORMATION,--
+136,Does early initiation of CPAP reduce mortality and the need for ventilation in preterm infants with respiratory distress?,REFUTED,--
+137,Does tubal flushing with oil-soluble contrast media improve fertility outcomes in women with subfertility?,REFUTED,NOT ENOUGH INFORMATION
+138,Does continuous oral antibiotic prophylaxis improve outcomes in children with cystic fibrosis?,NOT ENOUGH INFORMATION,SUPPORTED
+139,Does protein supplementation of human milk improve growth in preterm infants?,SUPPORTED,--
+140,Does carotid endarterectomy reduce the risk of recurrent stroke in patients with symptomatic carotid stenosis?,REFUTED,NOT ENOUGH INFORMATION
+141,Does supplementing human milk with carbohydrates improve growth and health outcomes in preterm infants?,SUPPORTED,NOT ENOUGH INFORMATION
+142,Do different corticosteroid regimens provide benefits for children with steroid-sensitive nephrotic syndrome?,SUPPORTED,--
+143,Is oral 5-ASA effective for maintaining remission in ulcerative colitis compared to placebo?,REFUTED,SUPPORTED
+144,Is oral anti-fungal treatment more effective than intra-vaginal treatment for uncomplicated vulvovaginal candidiasis?,SUPPORTED,--
+145,Does adding fat to human milk improve growth and development in preterm infants?,SUPPORTED,NOT ENOUGH INFORMATION
+146,Does reducing saturated fat intake lower the risk of cardiovascular events?,NOT ENOUGH INFORMATION,--
+147,Is aromatherapy effective and safe for people with dementia?,SUPPORTED,NOT ENOUGH INFORMATION
+148,Is oral 5-aminosalicylic acid effective for inducing remission in ulcerative colitis compared to placebo?,REFUTED,--
+149,Does vigabatrin help reduce seizures in people with drug-resistant focal epilepsy?,SUPPORTED,--
+150,Do chronic blood transfusions help prevent strokes in children with sickle cell disease?,SUPPORTED,--
+151,Do pharmacological treatments improve outcomes for women with intrahepatic cholestasis of pregnancy?,SUPPORTED,--
+152,Is zonisamide effective as an add-on treatment for focal epilepsy that is not controlled by other medications?,NOT ENOUGH INFORMATION,--
+153,Do fluid and pharmacological agents effectively prevent adhesions in women undergoing gynaecological surgery?,SUPPORTED,NOT ENOUGH INFORMATION
+154,Is a low-phenylalanine diet effective for people with phenylketonuria?,SUPPORTED,--
+155,Can prophylactic interventions effectively prevent hypotension after spinal anaesthesia for caesarean section?,SUPPORTED,--
+156,Does preoperative blood transfusion in people with sickle cell disease reduce complications during surgery?,NOT ENOUGH INFORMATION,SUPPORTED
+157,Is early surgical repair beneficial for patients with asymptomatic abdominal aortic aneurysms between 4.0 cm and 5.5 cm in diameter?,SUPPORTED,--
+158,Is levetiracetam effective as an add-on treatment for drug-resistant focal epilepsy?,SUPPORTED,NOT ENOUGH INFORMATION
+159,Do ketogenic diets help reduce seizures in people with drug-resistant epilepsy?,SUPPORTED,--
+160,Do progestogen-releasing intrauterine devices effectively reduce heavy menstrual bleeding?,REFUTED,--
+161,Does multi-nutrient fortified human milk improve growth rates in preterm infants without increasing adverse effects?,SUPPORTED,NOT ENOUGH INFORMATION
+162,Does pelvic floor muscle training help prevent or treat urinary incontinence in pregnant or postnatal women?,SUPPORTED,NOT ENOUGH INFORMATION
+163,Does chelation therapy improve clinical outcomes in people with atherosclerotic cardiovascular disease?,NOT ENOUGH INFORMATION,--
+164,Are enuresis alarms effective in treating bedwetting in children?,REFUTED,--
+165,Are antiepileptic drugs effective in preventing seizures after craniotomy?,NOT ENOUGH INFORMATION,SUPPORTED
+166,Does organised inpatient care for stroke patients lead to better outcomes compared to alternative care services?,NOT ENOUGH INFORMATION,REFUTED
+167,Does antibiotic prophylaxis reduce the risk of postoperative wound infections after hernia repair surgery?,REFUTED,NOT ENOUGH INFORMATION
+168,Are non-corticosteroid immunosuppressive medications beneficial for children with relapsing steroid-sensitive nephrotic syndrome?,REFUTED,--
+169,Does omega-3 supplementation reduce morbidity and mortality in cystic fibrosis patients?,SUPPORTED,REFUTED
+170,Do educational and supportive strategies help people with sleep apnea use CPAP devices more effectively?,NOT ENOUGH INFORMATION,--
+171,Can interventions effectively reduce silent cerebral infarcts in people with sickle cell disease?,NOT ENOUGH INFORMATION,REFUTED
+172,Do breathing exercises help improve asthma management?,SUPPORTED,--
+173,Do barrier agents used during pelvic surgery reduce pain and improve live birth rates in women of reproductive age?,NOT ENOUGH INFORMATION,SUPPORTED
+174,Do immunosuppression strategies provide benefits for treating IgA nephropathy?,SUPPORTED,--
+175,Do vitamins and minerals reduce the risk of lung cancer in healthy people?,NOT ENOUGH INFORMATION,--
+176,Do smoking cessation pharmacotherapies and electronic cigarettes help pregnant women quit smoking?,NOT ENOUGH INFORMATION,--
+177,Are corticosteroids effective for reducing pain in oral lichen planus?,SUPPORTED,--
+178,Is membrane sweeping effective for inducing labour in women at or near term?,NOT ENOUGH INFORMATION,--
+179,Is carotid artery stenting safer than carotid endarterectomy for treating carotid stenosis?,NOT ENOUGH INFORMATION,--
+180,Does laparoscopic ovarian drilling improve live birth rates in women with PCOS who are resistant to clomiphene citrate?,NOT ENOUGH INFORMATION,--
+181,Is ibuprofen effective and safer than indomethacin for closing a patent ductus arteriosus in preterm infants?,NOT ENOUGH INFORMATION,--
+182,Can acupuncture and acupressure help manage pain during labor?,NOT ENOUGH INFORMATION,SUPPORTED
+183,Is intravenous immunoglobulin effective in preventing nosocomial infections in preterm or low birth weight infants?,NOT ENOUGH INFORMATION,SUPPORTED
+184,Does administering intravenous immunoglobulin reduce mortality in neonates with suspected or proven infection?,SUPPORTED,REFUTED
+185,Are traditional suburethral sling procedures effective for treating stress urinary incontinence in women?,NOT ENOUGH INFORMATION,--
+186,Does ibuprofen effectively prevent patent ductus arteriosus in preterm infants?,NOT ENOUGH INFORMATION,SUPPORTED
+187,Do topical agents and wound dressings impact the healing of arterial leg ulcers?,REFUTED,SUPPORTED
+188,Is drug therapy effective and safe for managing delirium symptoms in terminally ill adults?,SUPPORTED,NOT ENOUGH INFORMATION
+189,Is tonsillectomy an effective treatment for children with PFAPA syndrome?,SUPPORTED,--
+190,Do interventions for female drug-using offenders effectively reduce criminal activity or drug use?,NOT ENOUGH INFORMATION,REFUTED
+191,Do psychosocial interventions reduce substance use in people with serious mental illness more effectively than standard care?,NOT ENOUGH INFORMATION,SUPPORTED
+192,Is laparoscopic colposuspension effective for treating urinary incontinence in women?,NOT ENOUGH INFORMATION,--
+193,Does spinal anaesthesia with lidocaine lead to a higher risk of transient neurological symptoms compared to other local anaesthetics?,SUPPORTED,--
+194,Are medical therapies effective for preventing or treating pouchitis?,NOT ENOUGH INFORMATION,SUPPORTED
+195,Is prophylactic plasma transfusion effective and safe for patients with coagulation test abnormalities undergoing surgery?,SUPPORTED,--
+196,Does antibiotic treatment for asymptomatic bacteriuria reduce the risk of complications during pregnancy?,NOT ENOUGH INFORMATION,SUPPORTED
+197,Can progestogen therapy help prevent recurrent miscarriages?,REFUTED,NOT ENOUGH INFORMATION
+198,Does cognitive rehabilitation improve attention and functional recovery in stroke survivors?,NOT ENOUGH INFORMATION,--
+199,Does adding exercise to smoking cessation support help people quit smoking more effectively than support alone?,NOT ENOUGH INFORMATION,--
+200,Can antiplatelet agents like low-dose aspirin help prevent pre-eclampsia in at-risk pregnant women?,SUPPORTED,--
+201,Does adding intrapleural fibrinolytic therapy to standard treatment improve outcomes for complicated pleural infections?,NOT ENOUGH INFORMATION,--
+202,Is routine malaria chemoprophylaxis beneficial for people with sickle cell disease in malaria-endemic areas?,SUPPORTED,REFUTED
+203,Is topiramate effective as an add-on treatment for drug-resistant focal epilepsy?,SUPPORTED,REFUTED
+204,Is valproate an effective treatment for acute mania in adults with bipolar disorder?,NOT ENOUGH INFORMATION,--
+205,Does tiagabine help reduce seizure frequency in people with drug-resistant focal seizures?,NOT ENOUGH INFORMATION,--
+206,Do different types of dental implants have varying long-term success rates?,SUPPORTED,NOT ENOUGH INFORMATION
+207,Is botulinum toxin type A effective for treating lower limb spasticity in children with cerebral palsy?,REFUTED,--
+208,Do interventions for drug-using offenders with mental health problems reduce drug use or criminal activity?,NOT ENOUGH INFORMATION,--
+209,Do antibiotics help reduce the risk of active trachoma and ocular infections?,NOT ENOUGH INFORMATION,--
+210,Does Tai Chi provide benefits for people with rheumatoid arthritis?,NOT ENOUGH INFORMATION,SUPPORTED
+211,Do NSAIDs effectively reduce heavy menstrual bleeding in women?,REFUTED,--
+212,Is compression therapy effective in treating post-thrombotic syndrome?,NOT ENOUGH INFORMATION,--
+213,Does regular deworming treatment for all children improve their overall health and development?,NOT ENOUGH INFORMATION,SUPPORTED
+214,Can oral non-steroidal anti-inflammatory drugs help slow lung disease progression in cystic fibrosis?,SUPPORTED,--
+215,Do antiviral treatments improve recovery in Bell's palsy when used with corticosteroids?,SUPPORTED,NOT ENOUGH INFORMATION
+216,Does follow-up care after colorectal cancer surgery improve overall survival?,SUPPORTED,--
+217,Are once-daily doses of aminoglycoside antibiotics as effective as multiple-daily doses for treating pulmonary exacerbations in cystic fibrosis?,SUPPORTED,--
+218,Does feeding preterm or low birth weight infants with formula lead to better growth and developmental outcomes compared to maternal breast milk?,NOT ENOUGH INFORMATION,--
+219,Is phenytoin more effective than phenobarbitone for treating seizures?,NOT ENOUGH INFORMATION,--
+220,Is oral progestogen therapy effective in reducing heavy menstrual bleeding in women of reproductive age?,REFUTED,SUPPORTED
+221,Do interventions that combine diet and physical activity effectively prevent obesity in young children?,SUPPORTED,NOT ENOUGH INFORMATION
+222,Does supplemental enteral tube feeding improve nutritional status in people with cystic fibrosis?,SUPPORTED,--
+223,Does feeding preterm or low birth weight infants with formula lead to better growth outcomes compared to donor breast milk?,REFUTED,NOT ENOUGH INFORMATION
+224,Is there a difference in effectiveness between carbamazepine and phenytoin for treating seizures?,SUPPORTED,--
+225,Does inositol supplementation improve health outcomes in preterm infants with respiratory distress syndrome?,SUPPORTED,--
+226,Are inhaled corticosteroids effective for treating lung inflammation in cystic fibrosis?,NOT ENOUGH INFORMATION,SUPPORTED
+227,Can local opinion leaders improve healthcare professionals' adherence to evidence-based practices?,NOT ENOUGH INFORMATION,--
+228,Is hypnotherapy effective for helping people quit smoking?,SUPPORTED,NOT ENOUGH INFORMATION
+229,Does early androgen suppression therapy improve survival in advanced hormone-sensitive prostate cancer?,NOT ENOUGH INFORMATION,SUPPORTED
+230,Is surgical resection more effective than biopsy for treating high-grade glioma?,SUPPORTED,--
+231,Does antihypertensive treatment reduce mortality in people aged 60 and older with hypertension?,REFUTED,NOT ENOUGH INFORMATION
+232,Is combining antidepressants with benzodiazepines more effective than using antidepressants alone for treating major depression?,NOT ENOUGH INFORMATION,--
+233,Is guided tissue regeneration more effective than conventional surgery for treating periodontal defects?,REFUTED,NOT ENOUGH INFORMATION
+234,Do mucolytics help reduce exacerbations in patients with chronic bronchitis or COPD?,SUPPORTED,--
+235,Does telephone support help smokers quit?,SUPPORTED,REFUTED
+236,Does prophylactic oxytocin effectively reduce postpartum blood loss during the third stage of labour?,NOT ENOUGH INFORMATION,--
+237,Is robot-assisted surgery effective and safe for treating gynaecological diseases in women?,NOT ENOUGH INFORMATION,REFUTED
+238,Is there effective treatment available for guttate psoriasis?,NOT ENOUGH INFORMATION,--
+239,Are remote psychological therapies effective for managing chronic pain in children and adolescents?,NOT ENOUGH INFORMATION,SUPPORTED
+240,Do programmes offering additional social support during pregnancy help reduce low birthweight and preterm births?,SUPPORTED,--
+241,Does long-term antibiotic use help prevent recurrent urinary tract infections in children?,NOT ENOUGH INFORMATION,--
+242,Does memantine provide benefits for people with dementia?,REFUTED,NOT ENOUGH INFORMATION
+243,Is a Mediterranean-style diet effective for preventing cardiovascular disease?,NOT ENOUGH INFORMATION,--
+244,"Do lifestyle, drug, and surgical interventions effectively treat obesity in children and adolescents?",SUPPORTED,--
+245,Do antistreptococcal interventions help manage psoriasis?,NOT ENOUGH INFORMATION,--
+246,Do calcium antagonists reduce the risk of death or dependency after acute ischemic stroke?,SUPPORTED,NOT ENOUGH INFORMATION
+247,Do combined hormonal contraceptives effectively reduce heavy menstrual bleeding compared to other treatments?,NOT ENOUGH INFORMATION,SUPPORTED
+248,Are newer endometrial ablation techniques effective in reducing heavy menstrual bleeding in premenopausal women?,REFUTED,NOT ENOUGH INFORMATION
+249,Is there a more effective method of emergency contraception than levonorgestrel?,NOT ENOUGH INFORMATION,--
+250,Do print-based self-help materials help smokers quit more effectively than no treatment?,NOT ENOUGH INFORMATION,REFUTED
+251,Are home-based tooth whitening products effective for achieving whiter teeth?,REFUTED,--
+252,Is laparoscopic appendectomy generally more beneficial than open appendectomy for treating appendicitis?,SUPPORTED,--
+253,Do insecticide-treated nets reduce child mortality and malaria morbidity?,SUPPORTED,--
+254,Do graduated compression stockings help prevent deep vein thrombosis in hospitalised patients?,NOT ENOUGH INFORMATION,SUPPORTED
+255,Does swallowing therapy improve outcomes for stroke survivors with dysphagia?,SUPPORTED,--
+256,Do antibiotics improve outcomes for patients with acute COPD exacerbations?,SUPPORTED,NOT ENOUGH INFORMATION
+257,Is carbamazepine more effective than phenobarbitone for treating seizures?,REFUTED,--
+258,Do hydrolysed formulas help prevent allergic disease in infants compared to standard formulas or breast milk?,REFUTED,--
+259,Are drugs that rehydrate sickled red blood cells effective in reducing complications of sickle cell disease?,SUPPORTED,--
+260,Does naloxone improve outcomes for newborns exposed to opioids during pregnancy?,NOT ENOUGH INFORMATION,SUPPORTED
+261,Are pressure-relieving support surfaces effective in treating pressure ulcers?,SUPPORTED,--
+262,Is delaying delivery beneficial for babies in cases of severe pre-eclampsia between 24 and 34 weeks' gestation?,SUPPORTED,--
+263,Can pelvic floor muscle training improve symptoms of urinary incontinence in women?,NOT ENOUGH INFORMATION,SUPPORTED
+264,Does calcium supplementation during pregnancy help reduce the risk of pre-eclampsia and related complications?,SUPPORTED,NOT ENOUGH INFORMATION
+265,Do antihypertensive drugs help reduce severe hypertension in pregnant women with mild to moderate hypertension?,SUPPORTED,--
+266,Do psychological treatments help reduce chronic pain in children and adolescents?,SUPPORTED,NOT ENOUGH INFORMATION
+267,Are different antibiotic regimens effective for treating scrub typhus?,SUPPORTED,--
+268,Are antidepressants effective for treating depression in patients with dementia?,SUPPORTED,NOT ENOUGH INFORMATION
+269,Does enhancing partner support for smokers trying to quit improve their chances of long-term abstinence?,NOT ENOUGH INFORMATION,REFUTED
+270,Is thrombolysis more effective than surgery for treating acute limb ischaemia?,SUPPORTED,NOT ENOUGH INFORMATION
+271,Is there a significant difference in treatment outcomes between sodium valproate and phenytoin for seizures?,REFUTED,NOT ENOUGH INFORMATION
+272,Do colloids provide a significant benefit over crystalloids for critically ill patients needing fluid replacement?,SUPPORTED,--
+273,Is natalizumab effective for inducing remission in Crohn's disease?,REFUTED,SUPPORTED
+274,Do red blood cell transfusions help prevent complications in people with sickle cell disease?,NOT ENOUGH INFORMATION,--
+275,Are ear drops effective for removing symptomatic ear wax?,SUPPORTED,--
+276,Is communication skills training effective for healthcare professionals in cancer care?,NOT ENOUGH INFORMATION,--
+277,Is there a difference in the effectiveness and safety of anticoagulants for preventing blood clots in cancer patients undergoing surgery?,SUPPORTED,--
+278,Does total fat intake affect body fatness in healthy children?,SUPPORTED,--
+279,Does influenza vaccination reduce respiratory illness in people with COPD?,SUPPORTED,--
+280,Do antibiotics improve symptoms during asthma exacerbations?,NOT ENOUGH INFORMATION,--
+281,Does donepezil improve cognitive function in people with Alzheimer's disease?,SUPPORTED,NOT ENOUGH INFORMATION
+282,Is oral fluphenazine effective for treating schizophrenia compared to placebo?,SUPPORTED,NOT ENOUGH INFORMATION
+283,Is there a preferred medicament for treating extensive decay in primary teeth?,NOT ENOUGH INFORMATION,--
+284,Is nicotine replacement therapy effective for long-term smoking cessation?,NOT ENOUGH INFORMATION,--
+285,Are vaccines effective in preventing typhoid fever?,NOT ENOUGH INFORMATION,--
+286,Is a 1-stage implant placement procedure as effective as a 2-stage procedure?,SUPPORTED,NOT ENOUGH INFORMATION
+287,Is the combined oral contraceptive pill effective in treating pain from endometriosis?,SUPPORTED,REFUTED
+288,Is epidural analgesia more effective and safer for mothers and babies during labor compared to non-epidural pain relief?,NOT ENOUGH INFORMATION,--
+289,Does water immersion during labour and birth have a significant impact on maternal and neonatal outcomes?,SUPPORTED,NOT ENOUGH INFORMATION
+290,Do inhaled corticosteroids help reduce respiratory exacerbations in bronchiectasis?,NOT ENOUGH INFORMATION,REFUTED
+291,Do nursing record systems improve nursing practice and patient outcomes?,NOT ENOUGH INFORMATION,--
+292,Is a therapeutic platelet transfusion policy as effective and safe as a prophylactic platelet transfusion policy for patients with bone marrow failure?,NOT ENOUGH INFORMATION,--
+293,Do HPV vaccines protect against cervical precancer in young women?,SUPPORTED,NOT ENOUGH INFORMATION
+294,Is there a specific platelet transfusion threshold that should be used before lumbar punctures or epidural anaesthesia in people with low platelet counts?,REFUTED,SUPPORTED
+295,Are non-benzodiazepine GABA agonist drugs effective in treating antipsychotic-induced tardive dyskinesia?,SUPPORTED,NOT ENOUGH INFORMATION
+296,Is antifibrinolytic medication effective and safe for treating heavy menstrual bleeding?,NOT ENOUGH INFORMATION,REFUTED
+297,Is there a preferred type of orthodontic adhesive for bonding brackets to teeth?,SUPPORTED,--
+298,Does contracting out governmental health services improve health outcomes and service delivery?,REFUTED,NOT ENOUGH INFORMATION
+299,Is exclusive enteral nutrition effective for inducing remission in Crohn's disease?,SUPPORTED,--
+300,Do mind-body relaxation techniques help manage pain during labor?,SUPPORTED,--
+301,Do calcium channel blockers help treat tardive dyskinesia caused by antipsychotic medications?,SUPPORTED,--
+302,Do cholinergic drugs help treat tardive dyskinesia in patients taking antipsychotics?,SUPPORTED,NOT ENOUGH INFORMATION
+303,Are there effective treatments for tardive dyskinesia caused by antipsychotic medication?,REFUTED,SUPPORTED
+304,Does intravenous immunoglobulin reduce the need for exchange transfusions in newborns with alloimmune hemolytic disease?,NOT ENOUGH INFORMATION,--
+305,Does angioplasty provide a long-term benefit for people with intermittent claudication compared to non-surgical therapy?,SUPPORTED,--
+306,Does reminiscence therapy have positive effects on people living with dementia?,REFUTED,--
+307,Do serotonin and noradrenaline reuptake inhibitors improve symptoms in fibromyalgia patients?,NOT ENOUGH INFORMATION,--
+308,Are there effective interventions for treating paracetamol overdose?,NOT ENOUGH INFORMATION,SUPPORTED
+309,Does community vision screening improve vision in older people living independently?,NOT ENOUGH INFORMATION,SUPPORTED
+310,Do different types of bypass grafts affect the success of femoro-popliteal bypass surgery?,SUPPORTED,--
+311,Is systemic therapy more effective than best supportive care for metastatic cutaneous melanoma?,NOT ENOUGH INFORMATION,SUPPORTED
+312,Does reducing or stopping antipsychotic medication help decrease tardive dyskinesia in people with schizophrenia?,NOT ENOUGH INFORMATION,--
+313,Does prophylactic cranial irradiation prolong survival in patients with small cell lung cancer in complete remission?,REFUTED,--
+314,Do vaccines against influenza reduce the incidence of the virus in healthy adults?,SUPPORTED,--
+315,Are interventions effective in reducing children's exposure to environmental tobacco smoke?,SUPPORTED,--
+316,Is there a clear difference in effectiveness between intrauterine insemination and intracervical insemination for donor sperm treatment?,SUPPORTED,--
+317,Are benzodiazepines effective for treating tardive dyskinesia caused by antipsychotic medications?,NOT ENOUGH INFORMATION,SUPPORTED
+318,Are patient reminder and recall systems effective in increasing immunization rates?,NOT ENOUGH INFORMATION,SUPPORTED
+319,Are anticholinergic drugs effective in treating antipsychotic-induced tardive dyskinesia?,SUPPORTED,--
+320,Can vitamin E help prevent or reduce movement disorders caused by antipsychotic medication in people with chronic mental illness?,NOT ENOUGH INFORMATION,--
+321,Are anticonvulsant drugs effective and safe for treating acute tonic-clonic convulsions in children?,SUPPORTED,NOT ENOUGH INFORMATION
+322,Is home treatment for venous thromboembolism as safe and effective as hospital treatment?,SUPPORTED,NOT ENOUGH INFORMATION
+323,Is an exercise programme effective in improving walking ability for people with leg pain from intermittent claudication?,SUPPORTED,--
+324,Do bisphosphonates help reduce pain in men with bone metastases from prostate cancer?,SUPPORTED,NOT ENOUGH INFORMATION
+325,Do bisphosphonates improve overall survival in patients with multiple myeloma?,NOT ENOUGH INFORMATION,--
+326,Are nursing-delivered smoking cessation interventions effective in helping adults quit smoking?,NOT ENOUGH INFORMATION,--
+327,Do feed thickeners help reduce symptoms of gastro-oesophageal reflux in infants?,REFUTED,--
+328,Do strategies aimed at changing healthcare professionals' behavior effectively promote weight reduction in overweight or obese individuals?,SUPPORTED,--
+329,Do corticosteroids improve symptoms in patients with chronic inflammatory demyelinating polyradiculoneuropathy?,REFUTED,SUPPORTED
+330,Are insulin-sensitising drugs effective in improving reproductive outcomes for women with PCOS?,REFUTED,--
+331,Does zuclopenthixol dihydrochloride effectively treat schizophrenia compared to other antipsychotics?,NOT ENOUGH INFORMATION,--
+332,Does electrical cardioversion reduce the risk of stroke in patients with atrial fibrillation?,SUPPORTED,REFUTED
+333,Is preoperative medical treatment effective in improving outcomes for surgery on uterine fibroids?,SUPPORTED,REFUTED
+334,Are there effective treatments for collagenous colitis?,REFUTED,--
+335,Does splenectomy improve survival and reduce complications in people with sickle cell disease compared to blood transfusions?,SUPPORTED,--
+336,Do bisphosphonates improve outcomes for women with breast cancer?,REFUTED,--
+337,Do inhaled corticosteroids provide a significant benefit over systemic corticosteroids for preventing death or bronchopulmonary dysplasia in very low birth weight infants?,REFUTED,NOT ENOUGH INFORMATION
+338,Is acupuncture or acupressure effective and safe for inducing labor in the third trimester?,REFUTED,--
+339,Do inhaled corticosteroids provide better outcomes than systemic corticosteroids for preterm neonates with bronchopulmonary dysplasia?,SUPPORTED,--
+340,Do anticonvulsants provide benefits for treating fibromyalgia symptoms?,SUPPORTED,--
+341,Can yoga help people with epilepsy reduce their seizures?,SUPPORTED,NOT ENOUGH INFORMATION
+342,Is mild hypothermia effective in improving outcomes for traumatic brain injury?,SUPPORTED,--
+343,Do treatments for tuberculous pericarditis have beneficial effects?,SUPPORTED,REFUTED
+344,Does providing financial assistance for smoking cessation increase the success rate of quitting smoking?,NOT ENOUGH INFORMATION,--
+345,Do parenteral anticoagulants improve survival in cancer patients undergoing treatment?,NOT ENOUGH INFORMATION,SUPPORTED
+346,Does ursodeoxycholic acid improve liver function and outcomes in cystic fibrosis?,SUPPORTED,--
+347,Does vitamin A supplementation during pregnancy and after delivery reduce the risk of mother-to-child transmission of HIV?,NOT ENOUGH INFORMATION,SUPPORTED
+348,Is early amniocentesis safer than second trimester amniocentesis for prenatal diagnosis?,SUPPORTED,REFUTED
+349,Does inhaling heated water vapor help treat the common cold?,NOT ENOUGH INFORMATION,--
+350,Does treadmill training improve walking ability after a stroke?,SUPPORTED,--
+351,Does flumazenil have beneficial effects for people with cirrhosis and hepatic encephalopathy?,NOT ENOUGH INFORMATION,REFUTED
+352,Is anterior vaginal repair effective for treating urinary incontinence compared to other treatments?,REFUTED,--
+353,Do antioxidant vitamin or mineral supplements prevent age-related macular degeneration?,REFUTED,NOT ENOUGH INFORMATION
+354,Is bladder neck needle suspension effective for treating stress urinary incontinence compared to other options?,NOT ENOUGH INFORMATION,REFUTED
+355,Is open retropubic colposuspension an effective treatment for stress urinary incontinence in women?,NOT ENOUGH INFORMATION,--
+356,Does periurethral or transurethral injection therapy improve urinary incontinence in women?,SUPPORTED,NOT ENOUGH INFORMATION
+357,Is long-term treatment with low-molecular-weight heparin safer than vitamin K antagonists for patients with venous thromboembolism?,REFUTED,--
+358,Can early supported discharge with rehabilitation at home improve outcomes for stroke patients compared to conventional care?,SUPPORTED,--
+359,Is non-invasive ventilation effective in reducing mortality and the need for intubation in patients with acute respiratory failure due to COPD?,NOT ENOUGH INFORMATION,SUPPORTED
+360,Does desmopressin help reduce blood loss during surgery in people without bleeding disorders?,SUPPORTED,--
+361,Does continuous one-to-one support during labor improve outcomes for women and their babies?,REFUTED,NOT ENOUGH INFORMATION
+362,Does patient education as part of cardiac rehabilitation improve health outcomes for people with coronary heart disease?,SUPPORTED,--
+363,Is combining antipsychotic medications effective and safe for treating schizophrenia?,NOT ENOUGH INFORMATION,SUPPORTED
+364,Is ketamine effective as an adjuvant to opioids for treating refractory cancer pain?,SUPPORTED,--
+365,Is multidisciplinary biopsychosocial rehabilitation effective for treating subacute low back pain?,SUPPORTED,--
+366,Is early discharge hospital at home effective compared to inpatient hospital care?,REFUTED,NOT ENOUGH INFORMATION
+367,Do practice-based interventions improve interprofessional collaboration among health professionals?,SUPPORTED,--
+368,Do antibiotics improve outcomes for patients with acute bronchitis?,NOT ENOUGH INFORMATION,--
+369,Can managing Type 2 diabetes effectively prevent cognitive impairment?,REFUTED,SUPPORTED
+370,Is celecoxib effective and safe for managing rheumatoid arthritis?,SUPPORTED,--
+371,Can mass media interventions help prevent smoking in young people?,NOT ENOUGH INFORMATION,--
+372,Do opioid antagonists combined with minimal sedation effectively aid in opioid withdrawal?,NOT ENOUGH INFORMATION,SUPPORTED
+373,Do different birth positions during labor affect maternal and neonatal outcomes?,NOT ENOUGH INFORMATION,--
+374,Does withholding gonadotrophins help prevent ovarian hyperstimulation syndrome in assisted reproduction cycles?,REFUTED,--
+375,Is drug therapy effective for treating anxiety in adults with a life-limiting illness?,SUPPORTED,--
+376,Do branched-chain amino acids have beneficial effects for people with hepatic encephalopathy?,SUPPORTED,--
+377,Does ultrasound treatment help venous leg ulcers heal faster than no treatment?,NOT ENOUGH INFORMATION,--
+378,Are topical analgesics effective for treating both acute and chronic pain in adults?,SUPPORTED,--
+379,"Do immunomodulatory and immunosuppressive agents other than corticosteroids, immunoglobulin, and plasma exchange provide significant benefits for treating CIDP?",NOT ENOUGH INFORMATION,--
+380,Are drugs effective in treating discoid lupus erythematosus?,SUPPORTED,NOT ENOUGH INFORMATION
+381,Do oral calorie supplements improve nutritional intake in people with cystic fibrosis?,NOT ENOUGH INFORMATION,REFUTED
+382,Is nitric oxide beneficial for patients with acute stroke?,SUPPORTED,NOT ENOUGH INFORMATION
+383,Does vitamin E help improve cognitive function in people with mild cognitive impairment or Alzheimer's disease?,SUPPORTED,NOT ENOUGH INFORMATION
+384,Does chlorpromazine have a dose-response relationship for treating schizophrenia?,SUPPORTED,REFUTED
+385,Do decision aids help patients make better treatment or screening choices?,NOT ENOUGH INFORMATION,--
+386,Does repeated removal of cerebrospinal fluid help reduce the risk of complications in preterm infants with posthaemorrhagic hydrocephalus?,SUPPORTED,--
+387,Does antithrombotic therapy with LMWHs or heparinoids reduce the risk of death or dependency in daily activities compared to standard UFH?,REFUTED,--
+388,Is bypass surgery effective for patients with chronic lower limb ischaemia?,NOT ENOUGH INFORMATION,--
+389,Does group therapy help people achieve long-term smoking cessation?,SUPPORTED,NOT ENOUGH INFORMATION
+390,Is individual counselling effective in helping smokers quit?,REFUTED,SUPPORTED
+391,Does pelvimetry help predict the method of delivery for women with a cephalic presentation?,REFUTED,NOT ENOUGH INFORMATION
+392,Do radioisotopes help relieve pain and improve outcomes in patients with bone metastases?,SUPPORTED,--
+393,Is enteral nutrition more effective than parenteral nutrition for patients receiving bone marrow transplants?,NOT ENOUGH INFORMATION,REFUTED
+394,Do corticosteroids improve outcomes for patients with tuberculous pleural effusion?,SUPPORTED,NOT ENOUGH INFORMATION
+395,Is LCPUFA supplementation in formula milk beneficial for full-term infants?,SUPPORTED,--
+396,Does fixed-dose combination therapy reduce the risk of death or cardiovascular events?,REFUTED,--
+397,Does plasma exchange improve recovery in adults with Guillain-Barré syndrome?,NOT ENOUGH INFORMATION,--
+398,Does adding calcium and phosphorus to human milk improve growth in preterm infants?,SUPPORTED,--
+399,Is buprenorphine more effective than methadone for managing opioid withdrawal?,REFUTED,SUPPORTED
+400,Does non-invasive ventilation improve airway clearance in people with cystic fibrosis?,SUPPORTED,NOT ENOUGH INFORMATION
+401,Do smoking cessation interventions during pregnancy improve health outcomes for mothers and infants?,REFUTED,--
+402,Is fixed dose low molecular weight heparin more effective than adjusted dose unfractionated heparin for treating venous thromboembolism?,NOT ENOUGH INFORMATION,SUPPORTED
+403,Is acupuncture an effective treatment for acute hordeolum?,REFUTED,--
+404,Does selective episiotomy reduce severe perineal trauma compared to routine episiotomy during vaginal births?,SUPPORTED,--
+405,Is continuous cardiotocography effective in improving fetal wellbeing during labor?,REFUTED,--
+406,Is intravenous midazolam infusion effective for sedation in critically ill neonates?,NOT ENOUGH INFORMATION,--
+407,Do interventions improve speech in individuals with dysarthria after stroke or brain injury?,REFUTED,--
+408,Does cromolyn sodium help prevent chronic lung disease in preterm infants?,SUPPORTED,--
+409,Does increasing dietary fibre intake reduce the recurrence of colorectal adenomatous polyps?,SUPPORTED,--
+410,Does inhaled nitric oxide improve oxygenation and reduce mortality in newborns with hypoxic respiratory failure?,REFUTED,--
+411,Do inhaled corticosteroids help prevent chronic lung disease in preterm infants?,REFUTED,--
+412,Does inhaled nitric oxide improve outcomes in preterm infants with hypoxic respiratory failure?,SUPPORTED,--
+413,Is LCPUFA supplementation in formula milk beneficial for preterm infants?,NOT ENOUGH INFORMATION,--
+414,Is risperidone effective in treating schizophrenia compared to placebo?,NOT ENOUGH INFORMATION,--
+415,Is droperidol effective in managing acute psychotic symptoms in people with schizophrenia-like illnesses?,SUPPORTED,--
+416,Do bronchodilators help reduce complications in preterm infants with chronic lung disease?,NOT ENOUGH INFORMATION,--
+417,Do multifocal intraocular lenses improve near vision compared to monofocal lenses?,SUPPORTED,NOT ENOUGH INFORMATION
+418,Do nutritional interventions help older people recover better from hip fractures?,NOT ENOUGH INFORMATION,SUPPORTED
+419,Is haloperidol plus promethazine an effective treatment for psychosis-induced aggression?,REFUTED,--
+420,Does immediate skin-to-skin contact improve breastfeeding outcomes for newborns?,REFUTED,--
+421,Do tobacco cessation interventions help people in recovery from alcohol and drug dependence to quit smoking?,NOT ENOUGH INFORMATION,--
+422,Is there an effective treatment for burning mouth syndrome?,NOT ENOUGH INFORMATION,--
+423,Do fibrates help reduce the risk of cardiovascular disease in primary prevention?,SUPPORTED,REFUTED
+424,Is oxcarbazepine effective as an additional treatment for drug-resistant partial epilepsy?,NOT ENOUGH INFORMATION,REFUTED
+425,Does positioning newborns differently during mechanical ventilation improve their short-term respiratory outcomes?,SUPPORTED,--
+426,Are there effective alternative treatments to platelet transfusions for patients with thrombocytopenia due to chronic bone marrow failure?,SUPPORTED,--
+427,Do azathioprine and 6-mercaptopurine effectively induce remission in active Crohn's disease?,SUPPORTED,--
+428,Do corticosteroids help improve recovery from Guillain-Barré syndrome?,REFUTED,--
+429,Does lung volume reduction surgery improve health outcomes for patients with severe emphysema?,NOT ENOUGH INFORMATION,--
+430,Does postoperative radiotherapy improve survival and reduce recurrence in patients with completely resected non-small cell lung cancer?,REFUTED,--
+431,Does out-of-home day-care for preschool children positively impact their development and future success?,SUPPORTED,--
+432,Are bisphosphonates effective in preventing and treating bone loss caused by corticosteroids?,SUPPORTED,--
+433,Is immunotherapy effective for treating IgM anti-MAG paraprotein-associated demyelinating neuropathy?,NOT ENOUGH INFORMATION,REFUTED
+434,Does non-nutritive sucking improve feeding and stability in preterm infants?,SUPPORTED,--
+435,Is risperidone as effective as other atypical antipsychotic drugs for treating schizophrenia?,REFUTED,--
+436,Does prophylactic plasma transfusion reduce bleeding risk before central line insertion in patients with abnormal coagulation?,SUPPORTED,--
+437,Is oral anticoagulant therapy more effective than antiplatelet agents for improving survival in heart failure patients with sinus rhythm?,SUPPORTED,--
+438,Is fast-track cardiac care safe and effective compared to conventional care for patients undergoing cardiac surgery?,SUPPORTED,--
+439,Is managing patients at home an effective alternative to inpatient hospital care for some elderly patients?,SUPPORTED,--
+440,Does Therapeutic Touch help in healing acute wounds?,SUPPORTED,NOT ENOUGH INFORMATION
+441,Does cognitive rehabilitation improve memory outcomes for stroke patients in the short term?,NOT ENOUGH INFORMATION,REFUTED
+442,Does synchronised mechanical ventilation improve gas exchange compared to conventional ventilation?,SUPPORTED,--
+443,Do plasma expanders help prevent ovarian hyperstimulation syndrome in high-risk women undergoing IVF or ICSI?,NOT ENOUGH INFORMATION,SUPPORTED
+444,Do intra-vaginal oestrogenic preparations help relieve symptoms of vaginal atrophy in postmenopausal women?,NOT ENOUGH INFORMATION,--
+445,Is kangaroo mother care beneficial for low birthweight infants compared to conventional neonatal care?,SUPPORTED,--
+446,Does vitamin A supplementation reduce the risk of chronic lung disease in very low birth weight infants?,REFUTED,NOT ENOUGH INFORMATION
+447,Are alternative agents to platelet transfusions safe and effective for preventing bleeding in patients with blood cancers undergoing chemotherapy?,REFUTED,--
+448,Is tubal sterilisation a safe and effective method of contraception?,NOT ENOUGH INFORMATION,--
+449,Are group-based parenting programmes effective in improving the emotional and behavioural adjustment of young children?,REFUTED,--
+450,Are fluoride mouthrinses effective in preventing dental caries in children and adolescents?,NOT ENOUGH INFORMATION,--
+451,Do treatments for oral leukoplakia effectively prevent oral cancer?,NOT ENOUGH INFORMATION,--
+452,Does anti-tuberculous therapy help maintain remission in Crohn's disease?,SUPPORTED,--
+453,Is corticosteroid therapy effective for treating Bell's palsy?,SUPPORTED,REFUTED
+454,Is sucrose effective for relieving procedural pain in neonates?,REFUTED,NOT ENOUGH INFORMATION
+455,Does postoperative epidural analgesia with local anaesthetics improve gastrointestinal recovery after abdominal surgery?,NOT ENOUGH INFORMATION,--
+456,Are aminosalicylates effective for treating mildly to moderately active Crohn's disease?,SUPPORTED,NOT ENOUGH INFORMATION
+457,Is acupuncture effective in reducing headache frequency in adults with episodic migraine?,SUPPORTED,--
+458,Does inhaled nitric oxide reduce mortality in patients with acute respiratory distress syndrome?,REFUTED,--
+459,Is speech and language therapy effective for improving communication in stroke patients with aphasia?,SUPPORTED,--
+460,Are regular follow-up examinations effective in improving outcomes for women treated for breast cancer?,NOT ENOUGH INFORMATION,--
+461,Is high-dose chemotherapy with autograft effective for women with early poor prognosis breast cancer?,REFUTED,NOT ENOUGH INFORMATION
+462,Does antibiotic treatment reduce the risk of recurrent toxoplasma retinochoroiditis?,SUPPORTED,NOT ENOUGH INFORMATION
+463,Is there a beneficial effect of the intervention on patient outcomes?,SUPPORTED,--
+464,Does prophylactic barbiturate therapy reduce death or neurodevelopmental disability in infants after perinatal asphyxia?,NOT ENOUGH INFORMATION,--
+465,Is there a beneficial effect of the intervention on patient outcomes?,SUPPORTED,--
+466,Are alpha2-adrenergic agonists effective in managing opioid withdrawal symptoms?,SUPPORTED,--
+467,Do granulocyte transfusions help reduce mortality in people with neutropenia when used with antibiotics?,SUPPORTED,NOT ENOUGH INFORMATION
+468,Are GnRH antagonists more effective and safer than GnRH agonists for ovarian stimulation in assisted conception?,NOT ENOUGH INFORMATION,--
+469,Do corticosteroids help reduce death rates in people with tuberculous meningitis?,NOT ENOUGH INFORMATION,SUPPORTED
+470,Does wearing surgical face masks during clean surgery reduce the risk of postoperative wound infections?,REFUTED,--
+471,Are non-surgical interventions effective and safe for managing late radiation proctopathy?,REFUTED,--
+472,Is there a beneficial effect of the intervention on patient outcomes?,SUPPORTED,NOT ENOUGH INFORMATION
+473,Is oral morphine effective in relieving cancer pain?,REFUTED,--
+474,Is the combination of sumatriptan and naproxen effective for treating acute migraine attacks?,NOT ENOUGH INFORMATION,--
+475,Is acupuncture effective in reducing the frequency of tension-type headaches?,NOT ENOUGH INFORMATION,--
+476,Does H. pylori eradication therapy help heal peptic ulcers and prevent their recurrence?,NOT ENOUGH INFORMATION,--
+477,Does glutamine supplementation improve health outcomes in preterm infants?,SUPPORTED,--
+478,Is depot risperidone more effective than placebo for treating schizophrenia?,SUPPORTED,--
+479,Do organisational interventions improve healthcare for persons with an intellectual disability?,SUPPORTED,--
+480,Is there a beneficial effect of the treatment on patient outcomes?,SUPPORTED,--
+481,Does oral immunoglobulin reduce the incidence of necrotizing enterocolitis in preterm or low birth weight neonates?,REFUTED,--
+482,Are dietary supplements effective and safe for treating dysmenorrhoea?,NOT ENOUGH INFORMATION,--
+483,Do advanced fluid optimization methods improve outcomes for patients undergoing hip fracture surgery?,NOT ENOUGH INFORMATION,--
+484,Is therapist-supported Internet cognitive behavioral therapy effective for treating anxiety disorders in adults?,SUPPORTED,NOT ENOUGH INFORMATION
+485,Is there a beneficial effect of the intervention on patient outcomes?,SUPPORTED,--
+486,Are different fertility treatments effective for couples with male subfertility?,SUPPORTED,--
+487,Is there a beneficial effect of the intervention on patient outcomes?,REFUTED,NOT ENOUGH INFORMATION
+488,Is there a difference in outcomes between regional and general anaesthesia for hip fracture repair?,NOT ENOUGH INFORMATION,SUPPORTED
+489,Is surgery more effective than medical therapy for treating heavy menstrual bleeding?,NOT ENOUGH INFORMATION,--
+490,Is there a beneficial effect of the intervention on patient outcomes?,NOT ENOUGH INFORMATION,--
+491,Does rHuEPO treatment in predialysis patients improve quality of life without increasing adverse events?,SUPPORTED,--
+492,Are tricyclic drugs effective for treating bedwetting in children?,NOT ENOUGH INFORMATION,SUPPORTED
+493,Do pre-employment examinations help prevent occupational injuries and diseases?,NOT ENOUGH INFORMATION,--
+494,Is surgery effective for managing intestinal obstruction in patients with advanced gynaecological and gastrointestinal cancer?,SUPPORTED,NOT ENOUGH INFORMATION
+495,Is there a beneficial effect of the intervention on patient outcomes?,REFUTED,--
+496,Do statins prevent dementia in people at risk due to age?,NOT ENOUGH INFORMATION,--
+497,Is the serum galactomannan test effective for diagnosing invasive aspergillosis in immunocompromised patients?,REFUTED,--
+498,Is there a beneficial effect of the intervention on patient outcomes?,SUPPORTED,NOT ENOUGH INFORMATION
+499,Does analyzing fetal ECG waveforms during labor improve fetal outcomes compared to other monitoring methods?,SUPPORTED,--
+500,Do 'as required' medication regimens effectively treat psychotic symptoms compared to regular medication patterns?,REFUTED,SUPPORTED
+501,Is there a beneficial effect of the intervention on patient outcomes?,SUPPORTED,REFUTED
+502,Is home intravenous antibiotic therapy for cystic fibrosis as effective as inpatient therapy?,NOT ENOUGH INFORMATION,--
+503,Do oral corticosteroids help improve lung function in cystic fibrosis?,SUPPORTED,NOT ENOUGH INFORMATION
+504,Is there a beneficial effect of the treatment on patient outcomes?,SUPPORTED,--
+505,Is crisis-intervention care effective for treating serious mental illnesses during acute episodes?,SUPPORTED,--
+506,Are different surgical methods effective for treating complete rectal prolapse?,SUPPORTED,--
+507,Does adding a long-acting beta2-agonist to inhaled corticosteroids improve asthma management in children?,NOT ENOUGH INFORMATION,--
+508,Do diuretics help reduce the duration of respiratory symptoms in newborns with transient tachypnoea?,SUPPORTED,--
+509,Do different platelet transfusion thresholds affect the risk of bleeding in patients undergoing chemotherapy or stem cell transplantation?,SUPPORTED,--
+510,Do vitamin D preparations help improve bone health in children with chronic kidney disease?,REFUTED,--
+511,Is there a beneficial effect of the intervention on patient outcomes?,REFUTED,--
+512,Is a single-dose antibiotic treatment for asymptomatic bacteriuria in pregnant women as effective as longer treatments?,SUPPORTED,--
+513,Is there a beneficial effect of the intervention on patient outcomes?,NOT ENOUGH INFORMATION,--
+514,Is multifetal reduction a viable option for managing multiple pregnancies?,SUPPORTED,REFUTED
+515,Does routine ICP monitoring in severe coma reduce the risk of death or severe disability?,NOT ENOUGH INFORMATION,SUPPORTED
+516,Is azathioprine effective for maintaining remission in quiescent Crohn's disease?,SUPPORTED,--
+517,Is rocuronium as effective as succinylcholine for intubation during emergencies?,NOT ENOUGH INFORMATION,--
+518,Is lithium an effective treatment for schizophrenia when used alone or with antipsychotics?,SUPPORTED,--
+519,Do different doses of prophylactic platelet transfusions affect bleeding risk in patients undergoing chemotherapy?,REFUTED,SUPPORTED
+520,Does prophylactic systemic antifungal therapy reduce mortality and morbidity in very preterm or very low birth weight infants?,SUPPORTED,NOT ENOUGH INFORMATION
+521,Do intra-articular corticosteroids provide significant benefits for knee osteoarthritis compared to no treatment?,NOT ENOUGH INFORMATION,--
+522,Is intermittent iron supplementation during pregnancy as effective as daily supplementation for maternal and infant outcomes?,NOT ENOUGH INFORMATION,--
+523,Do interventions help relieve symptoms of varicose veins and leg oedema during pregnancy?,SUPPORTED,NOT ENOUGH INFORMATION
+524,Is there a beneficial effect of the intervention on patient outcomes?,NOT ENOUGH INFORMATION,--
+525,Is the lactational amenorrhoea method effective as a contraceptive for fully breastfeeding women?,REFUTED,--
+526,Is there a beneficial effect of the treatment on patient outcomes?,SUPPORTED,--
+527,Is there a clear optimal red blood cell transfusion strategy for patients with myelodysplasia and related disorders?,SUPPORTED,--
+528,Can exercise help reduce low-back and pelvic pain during pregnancy?,REFUTED,--
+529,Is a therapeutic-only platelet transfusion policy as effective and safe as a prophylactic platelet transfusion policy in preventing bleeding?,SUPPORTED,NOT ENOUGH INFORMATION
+530,Is there a beneficial effect of the intervention on patient outcomes?,NOT ENOUGH INFORMATION,--
+531,Is there a beneficial effect of the intervention on patient outcomes?,REFUTED,--
+532,Do rehabilitation interventions improve recovery in adults with distal radial fractures?,SUPPORTED,--
+533,Is rivastigmine effective and safe for treating Alzheimer's disease?,SUPPORTED,--
+534,Is interactive telemedicine effective as an alternative to usual care?,SUPPORTED,--
+535,Does electromagnetic therapy help heal pressure ulcers?,SUPPORTED,--
+536,Does antenatal anti-D immunoglobulin reduce the risk of Rhesus D alloimmunisation in Rh-negative women?,NOT ENOUGH INFORMATION,REFUTED
+537,Do beta2-agonists improve symptoms of acute bronchitis in people without underlying lung disease?,SUPPORTED,--
+538,Do pressure-relieving support surfaces help reduce the incidence of pressure ulcers?,NOT ENOUGH INFORMATION,REFUTED
+539,Is massage therapy effective for treating non-specific low-back pain?,SUPPORTED,NOT ENOUGH INFORMATION
+540,Is animal derived surfactant more effective than protein free synthetic surfactant for treating respiratory distress syndrome in preterm infants?,SUPPORTED,--
+541,Is there a beneficial effect of the intervention on patient outcomes?,SUPPORTED,--
+542,Is there a beneficial effect of the intervention on patient outcomes?,NOT ENOUGH INFORMATION,SUPPORTED
+543,Is vaccination effective in reducing infections caused by Pseudomonas aeruginosa in cystic fibrosis?,NOT ENOUGH INFORMATION,--
+544,Is transcranial magnetic stimulation effective in reducing psychotic symptoms in schizophrenia?,NOT ENOUGH INFORMATION,--
+545,Does prolonged antibiotic therapy provide benefits for patients with bronchiectasis?,REFUTED,--
+546,Does the extent of lymphadenectomy improve survival in patients with resectable gastric carcinoma?,SUPPORTED,--
+547,Is there an effective treatment for idiopathic intracranial hypertension?,SUPPORTED,--
+548,Do financial incentives for prescribers improve healthcare outcomes and reduce costs?,NOT ENOUGH INFORMATION,REFUTED
+549,Is there a beneficial effect of the intervention on patient outcomes?,NOT ENOUGH INFORMATION,--
+550,Are NSAIDs effective for treating primary dysmenorrhoea?,REFUTED,--
+551,Does starting external cephalic version before 37 weeks help reduce breech presentations at birth?,SUPPORTED,NOT ENOUGH INFORMATION
+552,Do educational interventions for postpartum women improve contraceptive use?,SUPPORTED,--
+553,Do specific psychological therapies improve outcomes for adults with anorexia nervosa in outpatient settings?,REFUTED,--
+554,Does expedited vaginal delivery improve perinatal outcomes in breech births?,REFUTED,SUPPORTED
+555,Does planned caesarean section improve outcomes for babies in breech presentation at term?,SUPPORTED,--
+556,Do reduced antenatal care visits for low-risk women lead to better outcomes compared to standard care?,SUPPORTED,REFUTED
+557,Is early discharge of stable preterm infants with home support of gavage feeding beneficial compared to discharge when they have full sucking feeds?,NOT ENOUGH INFORMATION,--
+558,Does diclofenac provide effective pain relief for moderate to severe postoperative pain?,REFUTED,SUPPORTED
+559,Are psychosocial interventions effective for helping patients with coronary heart disease quit smoking?,SUPPORTED,NOT ENOUGH INFORMATION
+560,Does electromagnetic therapy help heal venous leg ulcers?,SUPPORTED,NOT ENOUGH INFORMATION
+561,Does routine late pregnancy ultrasound improve outcomes for mothers and babies in low-risk pregnancies?,REFUTED,--
+562,Does immediate insertion of intrauterine contraception after delivery improve successful placement compared to later insertion?,SUPPORTED,--
+563,Can chelation therapy improve symptoms of autism spectrum disorder?,SUPPORTED,REFUTED
+564,Are medical day hospitals effective in improving health outcomes for older people?,SUPPORTED,--
+565,Do prophylactic antibiotics improve maternal and perinatal outcomes during pregnancy?,NOT ENOUGH INFORMATION,--
+566,Is there a beneficial effect of the intervention on patient outcomes?,NOT ENOUGH INFORMATION,REFUTED
+567,Is fluoride gel effective in preventing dental caries in children and adolescents?,SUPPORTED,--
+568,Do social skills training programmes improve outcomes for people with schizophrenia compared to standard care?,REFUTED,--
+569,Is there a beneficial effect of the intervention on patient outcomes?,NOT ENOUGH INFORMATION,--
+570,Does regional anaesthesia reduce the risk of postoperative apnoea in preterm infants undergoing surgery?,SUPPORTED,--
+571,Do taxane-containing chemotherapy regimens improve outcomes for women with metastatic breast cancer compared to non-taxane regimens?,SUPPORTED,NOT ENOUGH INFORMATION
+572,Does vitamin B6 supplementation during pregnancy provide clinical benefits?,NOT ENOUGH INFORMATION,--
+573,Are pharmacological interventions effective in reducing drug use or criminal activity among drug-using offenders?,REFUTED,NOT ENOUGH INFORMATION
+574,Does antenatal nutritional education improve maternal and infant health outcomes?,SUPPORTED,--
+575,Does Directly Observed Therapy improve adherence to tuberculosis treatment compared to self-administered therapy?,SUPPORTED,--
+576,Do anti-inflammatory agents help prevent further heart damage in patients with acute rheumatic fever?,SUPPORTED,--
+577,Do dopamine agonists effectively treat cocaine misuse?,REFUTED,--
+578,Do oral protein calorie supplements improve nutritional status in children with chronic diseases?,SUPPORTED,--
+579,Does convective dialysis improve clinical outcomes compared to diffusive dialysis in patients with end-stage kidney disease?,REFUTED,SUPPORTED
+580,Does preoperative chemotherapy improve survival in patients with resectable thoracic esophageal cancer?,SUPPORTED,REFUTED
+581,Do cap and co-payment policies affect the use of medicines and healthcare costs?,REFUTED,--
+582,Do psychological interventions help people with sickle cell disease cope better with their condition?,SUPPORTED,NOT ENOUGH INFORMATION
+583,Is there a beneficial effect of the intervention on patient outcomes?,SUPPORTED,--
+584,Are tailored intervention strategies effective in improving healthcare professional practice?,SUPPORTED,--
+585,Is it safer to wait for a specific period before discontinuing antiepileptic drugs in patients with epilepsy?,NOT ENOUGH INFORMATION,--
+586,Is the combination of clindamycin and gentamicin effective for treating postpartum endometritis?,SUPPORTED,NOT ENOUGH INFORMATION
+587,Does feverfew help in preventing migraine attacks compared to a placebo?,REFUTED,--
+588,Are antiviral agents more effective than other treatments for herpes simplex virus eye disease?,SUPPORTED,--
+589,Does routine Doppler ultrasound improve outcomes for low-risk pregnancies?,SUPPORTED,--
+590,Is balneotherapy effective for managing symptoms of rheumatoid arthritis?,NOT ENOUGH INFORMATION,--
+591,Is there a beneficial effect of the intervention on patient outcomes?,SUPPORTED,--
+592,Do adjunctive corticosteroids reduce mortality and the need for mechanical ventilation in HIV-infected patients with PCP and substantial hypoxaemia?,SUPPORTED,--
+593,Does external cephalic version at term improve pregnancy outcomes?,SUPPORTED,--
+594,Is there a beneficial effect of the treatment on patient outcomes?,SUPPORTED,--
+595,Do hormonal contraceptives affect lactation and infant growth?,REFUTED,SUPPORTED
+596,Does high frequency oscillatory ventilation reduce the risk of chronic lung disease in preterm infants compared to conventional ventilation?,SUPPORTED,NOT ENOUGH INFORMATION
+597,Is optic nerve decompression surgery effective for treating nonarteritic anterior ischemic optic neuropathy?,SUPPORTED,NOT ENOUGH INFORMATION
+598,Is there a beneficial effect of the intervention on patient outcomes?,NOT ENOUGH INFORMATION,SUPPORTED
+599,Is there a beneficial effect of the intervention on patient outcomes?,REFUTED,--
+600,Do immunosuppressive agents improve outcomes in multifocal motor neuropathy?,NOT ENOUGH INFORMATION,REFUTED
+601,Does pulmonary rehabilitation improve health-related quality of life and exercise capacity in COPD patients?,NOT ENOUGH INFORMATION,--
+602,Do antiplatelet agents improve the success of bypass grafting in patients with lower limb atherosclerosis?,SUPPORTED,--
+603,Do pharmacological interventions reduce sexual offending behavior in convicted individuals?,REFUTED,--
+604,Is a two-step alcohol skin cleansing procedure before blood donation more effective than a one-step procedure in preventing blood contamination?,REFUTED,SUPPORTED
+605,Do certain interventions improve the success of turning a breech baby to head first presentation?,REFUTED,SUPPORTED
+606,Are fluphenazine decanoate and enanthate more effective than oral antipsychotics for treating schizophrenia?,SUPPORTED,NOT ENOUGH INFORMATION
+607,Is homeopathic Oscillococcinum® more effective than placebo for preventing or treating influenza?,REFUTED,--
+608,Is there a beneficial effect of the intervention on patient outcomes?,SUPPORTED,--
+609,Is conservative management effective for urinary incontinence after prostate surgery?,NOT ENOUGH INFORMATION,--
+610,Can palliative radiotherapy improve symptoms in patients with advanced lung cancer?,SUPPORTED,NOT ENOUGH INFORMATION
+611,Does intravenous metoclopramide help with the placement of naso-enteral tubes in adults?,NOT ENOUGH INFORMATION,--
+612,Is minimally invasive surgery effective for treating solid tumors in children?,SUPPORTED,--
+613,Does reducing dietary salt intake have a significant impact on mortality and cardiovascular health?,NOT ENOUGH INFORMATION,--
+614,Does patient education help prevent foot ulcers in people with diabetes?,SUPPORTED,REFUTED
+615,Does surfactant administration help treat meconium aspiration syndrome in infants?,NOT ENOUGH INFORMATION,SUPPORTED
+616,Does nocturnal mechanical ventilation improve survival in patients with neuromuscular or chest wall disorders?,SUPPORTED,--
+617,"Is there a difference in effectiveness between open surgery, endolaryngeal excision, and radiotherapy for early glottic laryngeal cancer?",SUPPORTED,--
+618,Does cinacalcet provide overall benefits for adults with chronic kidney disease?,SUPPORTED,--
+619,Is the Epley manoeuvre an effective treatment for posterior canal BPPV?,NOT ENOUGH INFORMATION,--
+620,Is balloon angioplasty with stenting more effective than medical therapy for treating hypertension in patients with renal artery stenosis?,SUPPORTED,--
+621,Does careful restriction of water intake in premature infants help reduce the risk of serious health issues?,NOT ENOUGH INFORMATION,SUPPORTED
+622,Are over-the-counter cough medicines effective for treating acute cough in children and adults?,SUPPORTED,--
+623,Do interventions aimed at improving medication adherence lead to better clinical outcomes?,REFUTED,--
+624,Does tonsillectomy help reduce the frequency and severity of sore throat episodes in children and adults with chronic tonsillitis?,SUPPORTED,--
+625,Is there a beneficial effect of the intervention on patient outcomes?,NOT ENOUGH INFORMATION,--
+626,Is there a beneficial effect of the intervention on patient outcomes?,REFUTED,SUPPORTED
+627,Does adding colony-stimulating factors to antibiotics improve outcomes for patients with chemotherapy-induced febrile neutropenia?,SUPPORTED,--
+628,Should blood pressure be actively lowered during the acute phase of stroke?,SUPPORTED,REFUTED
+629,Do antibiotics help improve outcomes for mothers and babies with prelabour rupture of membranes at term?,REFUTED,SUPPORTED
+630,Do immunotherapies improve live birth rates in women with unexplained recurrent miscarriages?,SUPPORTED,--
+631,Does acupuncture have antipsychotic effects for people with schizophrenia?,REFUTED,--
+632,Do pharmaceutical pricing and purchasing policies affect health outcomes and drug use?,SUPPORTED,--
+633,Is there a beneficial effect of the treatment on patient outcomes?,REFUTED,SUPPORTED
+634,Does malaria chemoprevention improve health outcomes for pregnant women and their infants in malaria endemic areas?,REFUTED,--
+635,Are interventions effective in reducing the severity of cough in whooping cough?,SUPPORTED,NOT ENOUGH INFORMATION
+636,Does intravenous immunoglobulin (IVIg) help speed up recovery in Guillain-Barré syndrome?,REFUTED,--
+637,Are acellular pertussis vaccines effective and safer than whole-cell vaccines for children?,NOT ENOUGH INFORMATION,--
+638,Are antidepressants effective for treating postnatal depression compared to other treatments?,NOT ENOUGH INFORMATION,--
+639,Does wearing compression hosiery help prevent the recurrence of venous ulcers?,NOT ENOUGH INFORMATION,REFUTED
+640,Does oral zinc help heal arterial or venous leg ulcers?,REFUTED,--
+641,Is treating asymptomatic retinal breaks and lattice degeneration effective in preventing retinal detachment?,SUPPORTED,--
+642,Does nystatin reduce morbidity and mortality in patients with severe immunodeficiency?,SUPPORTED,--
+643,Is amphotericin B more effective than fluconazole in reducing morbidity and mortality in cancer patients with neutropenia?,SUPPORTED,REFUTED
+644,Do antifungal drugs reduce mortality in cancer patients with neutropenia?,NOT ENOUGH INFORMATION,REFUTED
+645,Are lipid soluble formulations of amphotericin B more beneficial than conventional amphotericin B for cancer patients with neutropenia?,SUPPORTED,--
+646,Is multidisciplinary biopsychosocial rehabilitation effective for patients with chronic low back pain?,SUPPORTED,--
+647,Do corticosteroids help in treating acute exacerbations of COPD?,SUPPORTED,--
+648,Does haemodilution therapy improve outcomes in acute ischaemic stroke?,NOT ENOUGH INFORMATION,--
+649,Does advanced life support training for ambulance crews improve outcomes for trauma patients?,SUPPORTED,REFUTED
+650,Is oral budesonide effective for maintaining remission in Crohn's disease?,SUPPORTED,--
+651,Is there a beneficial effect of the intervention on patient outcomes?,NOT ENOUGH INFORMATION,--
+652,Is there a beneficial effect of the intervention on patient outcomes?,SUPPORTED,--
+653,Is magnesium sulphate effective in preventing preterm birth in women in threatened preterm labour?,NOT ENOUGH INFORMATION,SUPPORTED
+654,Do modifications in the transfer set used in CAPD exchanges reduce peritonitis?,SUPPORTED,--
+655,Does not closing the peritoneum during a caesarean section lead to better postoperative outcomes?,REFUTED,--
+656,Does bariatric surgery lead to better weight loss and improvement in obesity-related health issues compared to non-surgical treatments?,NOT ENOUGH INFORMATION,--
+657,Is vedolizumab effective for treating ulcerative colitis?,SUPPORTED,--
+658,Is there a beneficial effect of the treatment on patient outcomes?,SUPPORTED,--
+659,Is methotrexate effective for inducing remission in patients with active Crohn's disease?,NOT ENOUGH INFORMATION,--
+660,Is praziquantel effective for treating urinary schistosomiasis?,NOT ENOUGH INFORMATION,REFUTED
+661,Does the duration of vitamin K antagonist treatment affect the risk of recurrent venous thromboembolism?,REFUTED,NOT ENOUGH INFORMATION
+662,Does wearing rings or nail polish by surgical teams affect the rate of postoperative wound infections?,NOT ENOUGH INFORMATION,--
+663,Is thrombolytic therapy an effective treatment for acute ischaemic stroke when administered within six hours?,SUPPORTED,--
+664,Is there a beneficial effect of the intervention on patient outcomes?,SUPPORTED,--
+665,Are oral antibiotics effective for treating acute pyelonephritis in children?,SUPPORTED,NOT ENOUGH INFORMATION
+666,Is there a beneficial effect of the intervention on patient outcomes?,SUPPORTED,NOT ENOUGH INFORMATION
+667,Is there a beneficial effect of the intervention on patient outcomes?,SUPPORTED,--
+668,Is there a beneficial effect of the intervention on patient outcomes?,SUPPORTED,REFUTED
+669,Does ambulatory oxygen therapy improve exercise capacity in COPD patients who do not qualify for long-term oxygen therapy?,NOT ENOUGH INFORMATION,SUPPORTED
+670,Do vaginal prostaglandins E2 and F2a improve the chances of vaginal delivery compared to placebo?,NOT ENOUGH INFORMATION,--
+671,Do psychological interventions for people with cystic fibrosis provide significant benefits beyond standard medical care?,NOT ENOUGH INFORMATION,--
+672,Do bronchodilators improve clinical outcomes in infants with acute bronchiolitis?,SUPPORTED,--
+673,Is one physiotherapy intervention more effective than another for patients with Parkinson's disease?,SUPPORTED,--
+674,Do powered toothbrushes remove plaque more effectively than manual toothbrushes?,NOT ENOUGH INFORMATION,--
+675,Is oral misoprostol effective for inducing labor in women with a viable fetus?,NOT ENOUGH INFORMATION,SUPPORTED
+676,Does nutritional intervention help prevent or treat pressure ulcers?,SUPPORTED,--
+677,Does methotrexate provide significant benefits for treating rheumatoid arthritis compared to placebo?,REFUTED,--
+678,Is flupenthixol decanoate effective compared to other treatments for schizophrenia?,SUPPORTED,REFUTED
+679,Is a cholesterol-lowering diet effective in reducing heart disease and cholesterol levels in people with familial hypercholesterolaemia?,NOT ENOUGH INFORMATION,--
+680,Do calcium channel blockers improve outcomes for women in preterm labor compared to other treatments?,NOT ENOUGH INFORMATION,--
+681,Are longer-acting erythropoiesis-stimulating agents as effective and safe as traditional treatments for anemia in dialysis patients?,SUPPORTED,NOT ENOUGH INFORMATION
+682,Does trypanocidal therapy help prevent chronic chagasic cardiomyopathy in infected individuals?,REFUTED,NOT ENOUGH INFORMATION
+683,Do oral medicinal plant products provide benefits for treating osteoarthritis?,SUPPORTED,--
+684,Is zolmitriptan effective for treating acute migraine attacks in adults?,SUPPORTED,--
+685,Do group-based parenting programmes improve parental psychosocial wellbeing?,REFUTED,NOT ENOUGH INFORMATION
+686,Does postoperative chemotherapy combined with radiotherapy improve outcomes for patients with anaplastic oligodendrogliomas or mixed oligoastrocytomas?,SUPPORTED,--
+687,Does bone augmentation improve the success of sinus lift procedures for dental implants?,SUPPORTED,REFUTED
+688,Does intermittent pneumatic compression help heal venous leg ulcers?,REFUTED,NOT ENOUGH INFORMATION
+689,Are inhaled hyperosmolar substances effective in treating bronchiectasis?,SUPPORTED,--
+690,Are nitric oxide donors effective in delaying birth during threatened preterm labour?,SUPPORTED,--
+691,Do anticoagulant drugs improve walking capacity in patients with intermittent claudication?,SUPPORTED,--
+692,Is carbamazepine an effective treatment for schizophrenia?,REFUTED,--
+693,Are mucolytic agents effective in treating bronchiectasis?,SUPPORTED,--
+694,Is digitalis effective in treating heart failure in patients with normal sinus rhythm?,REFUTED,SUPPORTED
+695,Is land-based therapeutic exercise beneficial for people with hip osteoarthritis?,REFUTED,NOT ENOUGH INFORMATION
+696,Is physical rehabilitation effective for recovery of function and mobility after a stroke?,NOT ENOUGH INFORMATION,REFUTED
+697,Is there a beneficial effect of the intervention on patient outcomes?,SUPPORTED,--
+698,Can vitamin D and calcium supplements help prevent fractures in older adults?,SUPPORTED,--
+699,Is sulpiride effective for treating schizophrenia compared to placebo?,SUPPORTED,NOT ENOUGH INFORMATION
+700,Is carbamazepine effective for treating chronic neuropathic pain and fibromyalgia?,SUPPORTED,--
+701,Is paroxetine effective in treating Major Depressive Disorder compared to other antidepressants?,NOT ENOUGH INFORMATION,--
+702,Does magnesium supplementation during pregnancy improve maternal and infant health outcomes?,NOT ENOUGH INFORMATION,--
+703,Do hip protectors help reduce the risk of hip fractures in older adults?,NOT ENOUGH INFORMATION,REFUTED
+704,Does amnioinfusion for preterm premature rupture of membranes improve perinatal and maternal outcomes?,REFUTED,SUPPORTED
+705,Do preoperative smoking interventions help reduce postoperative complications?,SUPPORTED,--
+706,Does using pulse oximetry during surgery improve patient outcomes?,SUPPORTED,--
+707,Is active rehabilitation after lumbar disc surgery more effective than no treatment?,SUPPORTED,--
+708,Is influenza vaccination effective for people with cystic fibrosis?,SUPPORTED,--
+709,Do psychological treatments help people with thalassaemia cope better with their condition?,REFUTED,NOT ENOUGH INFORMATION
+710,Does the timing and volume of intravenous fluid administration affect mortality in trauma patients with haemorrhagic shock?,NOT ENOUGH INFORMATION,--
+711,Is there a specific type of intraocular lens that improves visual outcomes for people with uveitis undergoing cataract surgery?,SUPPORTED,--
+712,Do workplace interventions help workers to stop smoking?,NOT ENOUGH INFORMATION,SUPPORTED
+713,Are Echinacea preparations effective for preventing or treating the common cold?,SUPPORTED,--
+714,Does the use of 5-Fluorouracil during glaucoma surgery help lower intraocular pressure?,SUPPORTED,NOT ENOUGH INFORMATION
+715,Is there a beneficial effect of the intervention on patient outcomes?,SUPPORTED,--
+716,Is there a beneficial effect of the treatment on patient outcomes?,REFUTED,--
+717,Is oxytocin infusion more effective than misoprostol for treating primary postpartum haemorrhage?,REFUTED,--
+718,Do behavioral or psychological treatments reduce the frequency of non-epileptic seizures or improve quality of life?,NOT ENOUGH INFORMATION,--
+719,Is elective delivery at 37 weeks safe for women with uncomplicated twin pregnancies?,SUPPORTED,--
+720,Is buprenorphine effective in managing opioid dependence compared to methadone and placebo?,SUPPORTED,REFUTED
+721,Is continuous passive motion effective in improving recovery after knee arthroplasty?,SUPPORTED,--
+722,Does treatment improve outcomes for twin-twin transfusion syndrome?,SUPPORTED,NOT ENOUGH INFORMATION
+723,Does short hospital stays for serious mental illness lead to better outcomes compared to long stays?,REFUTED,--
+724,Is acupuncture effective for helping people quit smoking?,REFUTED,--
+725,Does amnioinfusion improve perinatal outcomes in cases of meconium-stained amniotic fluid?,NOT ENOUGH INFORMATION,--
+726,Is perazine effective for treating schizophrenia compared to other treatments?,REFUTED,NOT ENOUGH INFORMATION
+727,Do management strategies for faecal incontinence and constipation improve outcomes for people with neurological diseases?,NOT ENOUGH INFORMATION,--
+728,Is omalizumab effective in treating asthma compared to placebo or conventional therapy?,NOT ENOUGH INFORMATION,REFUTED
+729,Does intravascular brachytherapy help maintain artery openness after angioplasty or stent insertion?,REFUTED,NOT ENOUGH INFORMATION
+730,Is chlorpromazine effective for treating schizophrenia compared to placebo?,NOT ENOUGH INFORMATION,SUPPORTED
+731,Does intravenous immunoglobulin improve disability in patients with chronic inflammatory demyelinating polyradiculoneuropathy?,NOT ENOUGH INFORMATION,--
+732,Is radiofrequency ablation beneficial for patients with hepatocellular carcinoma compared to other treatments?,SUPPORTED,--
+733,Does electromagnetic field therapy provide benefits for treating osteoarthritis?,SUPPORTED,--
+734,Does using noninvasive positive-pressure ventilation reduce mortality compared to invasive ventilation in patients with respiratory failure?,SUPPORTED,--
+735,Does manual fetal manipulation improve fetal wellbeing during testing?,SUPPORTED,--
+736,Does fetal vibroacoustic stimulation improve the efficiency of fetal heart rate testing?,SUPPORTED,--
+737,Do prophylactic antibiotics improve outcomes for women in preterm labour with intact membranes?,NOT ENOUGH INFORMATION,--
+738,Do anti-hypertensive drugs improve outcomes in patients with both high blood pressure and peripheral arterial disease?,REFUTED,--
+739,Is there a superior surgical technique for treating cervical intraepithelial neoplasia?,SUPPORTED,--
+740,Does using vasopressin and tranexamic acid help reduce blood loss during cervical surgery?,REFUTED,--
+741,Do different methods of cleansing and dressing orthopaedic pin sites affect infection rates?,SUPPORTED,--
+742,Do antibiotics given to women with preterm rupture of membranes improve neonatal health outcomes?,NOT ENOUGH INFORMATION,--
+743,Is there a beneficial effect of the intervention on patient outcomes?,NOT ENOUGH INFORMATION,--
+744,Does first-line chemotherapy improve survival in patients with extensive small cell lung cancer compared to supportive care?,SUPPORTED,--
+745,Does single dose dipyrone effectively relieve acute postoperative pain?,SUPPORTED,NOT ENOUGH INFORMATION
+746,Is there a beneficial effect of the intervention on patient outcomes?,REFUTED,--
+747,Is there a beneficial effect of the intervention on patient outcomes?,SUPPORTED,--
+748,Is there a beneficial effect of the intervention on patient outcomes?,SUPPORTED,--
+749,Does adding prenatal TRH to corticosteroids help prevent neonatal respiratory disease in preterm infants?,REFUTED,SUPPORTED
+750,Does screening for oral cancer reduce mortality rates?,REFUTED,NOT ENOUGH INFORMATION
+751,Is haloperidol effective for managing schizophrenia compared to placebo?,SUPPORTED,--
+752,Does computerized advice on drug dosage improve patient outcomes compared to routine care?,REFUTED,--
+753,Does combining inhaled corticosteroids and long-acting beta2-agonists reduce COPD exacerbations compared to placebo?,REFUTED,--
+754,Do glycoprotein IIb/IIIa blockers improve outcomes for patients undergoing PCI or with NSTEACS?,REFUTED,--
+755,Is pimozide effective for treating schizophrenia compared to other antipsychotic medications?,SUPPORTED,--
+756,Is hydration effective in preventing preterm birth in women with preterm labour?,NOT ENOUGH INFORMATION,--
+757,Is continuous negative extrathoracic pressure or non-invasive CPAP effective in improving outcomes for children with acute hypoxaemic respiratory failure?,SUPPORTED,--
+758,Do urodynamic tests improve clinical outcomes for urinary incontinence treatment?,SUPPORTED,--
+759,Is there a beneficial effect of the treatment on patient outcomes?,NOT ENOUGH INFORMATION,--
+760,Is there a beneficial effect of the intervention on patient outcomes?,SUPPORTED,--
+761,Is there a beneficial effect of the intervention on patient outcomes?,NOT ENOUGH INFORMATION,--
+762,Is celecoxib effective for relieving moderate to severe postoperative pain?,NOT ENOUGH INFORMATION,--
+763,Is there a beneficial effect of the intervention on patient outcomes?,SUPPORTED,--
+764,Are third wave cognitive and behavioral therapies effective for treating acute depression compared to other psychological therapies?,NOT ENOUGH INFORMATION,SUPPORTED
+765,Are third wave cognitive and behavioural therapies effective for treating acute depression?,SUPPORTED,--
+766,Is valproate effective in the long-term treatment of bipolar disorder?,SUPPORTED,REFUTED
+767,Are behavioural therapies as effective as other psychological therapies for treating acute depression?,NOT ENOUGH INFORMATION,--
+768,Is there a beneficial effect of the intervention on patient outcomes?,REFUTED,--
+769,Does user-held clinical information improve outcomes for people with severe mental illness?,SUPPORTED,--
+770,Do different partner notification strategies effectively reduce the transmission of sexually transmitted infections?,SUPPORTED,--
+771,Does hyperbaric oxygen therapy improve the success of dental implants in patients who have undergone radiotherapy?,NOT ENOUGH INFORMATION,--
+772,Does physical training improve the health of people with asthma?,NOT ENOUGH INFORMATION,--
+773,Does active chest compression-decompression CPR improve survival or neurological function in cardiac arrest patients?,NOT ENOUGH INFORMATION,SUPPORTED
+774,Does intravenous immunoglobulin therapy reduce mortality in patients with bacterial sepsis or septic shock?,SUPPORTED,--
+775,Are metered-dose inhalers with holding chambers as effective as nebulisers for treating acute asthma?,SUPPORTED,NOT ENOUGH INFORMATION
+776,Is supported employment effective for people with severe mental disorders?,SUPPORTED,--
+777,Is planned immediate caesarean delivery better than planned vaginal birth for women in preterm labour?,REFUTED,--
+778,Is physiotherapy effective in improving outcomes for patients with Parkinson's disease compared to no intervention?,SUPPORTED,--
+779,Is inspiratory muscle training effective for improving asthma symptoms?,SUPPORTED,--
+780,Do zygomatic implants provide benefits over traditional bone augmentation methods for severely resorbed maxillae?,SUPPORTED,--
+781,Does prophylactic D-penicillamine prevent retinopathy of prematurity in preterm infants?,REFUTED,--
+782,Is sympathectomy an effective treatment for neuropathic pain?,SUPPORTED,--
+783,Does physical conditioning help workers with back pain return to work faster?,SUPPORTED,--
+784,Do combined long-acting beta2-agonists and inhaled corticosteroids improve treatment outcomes for COPD compared to inhaled corticosteroids alone?,SUPPORTED,--
+785,Are opioid agonists effective and safe for treating neuropathic pain?,REFUTED,--
+786,Is there an optimal dose range for haloperidol in treating acute schizophrenia?,NOT ENOUGH INFORMATION,--
+787,Does adding inhaled anticholinergics to SABAs improve outcomes for children with acute asthma exacerbations?,SUPPORTED,--
+788,Do antibiotics help prevent complications in children with measles?,SUPPORTED,--
+789,Does reducing light exposure in very low birth weight infants decrease the risk of retinopathy of prematurity?,SUPPORTED,--
+790,Is mannitol therapy effective in managing intracranial pressure after severe head injury?,NOT ENOUGH INFORMATION,--
+791,Are systemic prophylactic antibiotics beneficial for reducing dental implant failures?,SUPPORTED,--
+792,Are different antihypertensive drugs equally effective for treating very high blood pressure during pregnancy?,SUPPORTED,NOT ENOUGH INFORMATION
+793,Does castor oil effectively induce labor compared to other methods?,REFUTED,NOT ENOUGH INFORMATION
+794,Are simple behavioural interventions effective for treating nocturnal enuresis in children?,NOT ENOUGH INFORMATION,--
+795,Does lowering homocysteine levels improve outcomes in people with peripheral arterial disease?,SUPPORTED,--
+796,Do enemas during the first stage of labour improve maternal and neonatal outcomes?,NOT ENOUGH INFORMATION,--
+797,Do prison visit programs help reduce delinquency in at-risk youth?,SUPPORTED,NOT ENOUGH INFORMATION
+798,Is once daily administration of low molecular weight heparin as safe and effective as twice daily administration?,SUPPORTED,--
+799,Is there a beneficial effect of the intervention on patient outcomes?,REFUTED,NOT ENOUGH INFORMATION
+800,Is fluoride varnish effective in preventing dental caries in children and adolescents?,SUPPORTED,--
+801,Does adding antiplatelet therapy to oral anticoagulation improve safety and efficacy for patients with prosthetic heart valves?,SUPPORTED,--
+802,Are vaginal cones effective in managing female urinary stress incontinence?,SUPPORTED,--
+803,Do certain antibiotic prophylaxes help prevent urinary tract infections in adults with short-term catheterization?,SUPPORTED,NOT ENOUGH INFORMATION
+804,Do surgical techniques improve outcomes for adults with faecal incontinence compared to non-surgical options?,REFUTED,SUPPORTED
+805,Do steroids improve hearing in patients with sudden sensorineural hearing loss?,NOT ENOUGH INFORMATION,--
+806,Is beta-lactam monotherapy more effective than beta-lactam-aminoglycoside combination therapy for treating febrile neutropenia in cancer patients?,NOT ENOUGH INFORMATION,SUPPORTED
+807,Does screening for lung cancer reduce mortality?,NOT ENOUGH INFORMATION,--
+808,Do interventions aimed at supporting parents after perinatal death improve their outcomes?,REFUTED,NOT ENOUGH INFORMATION
+809,Are tricyclic drugs effective for treating depression in children and adolescents?,REFUTED,SUPPORTED
+810,Does dehumidification of the home environment improve asthma control?,NOT ENOUGH INFORMATION,--
+811,Is drug therapy effective for treating faecal incontinence?,NOT ENOUGH INFORMATION,--
+812,Should a tourniquet be recommended during varicose vein surgery?,NOT ENOUGH INFORMATION,--
+813,Are SSRIs effective for treating premenstrual syndrome?,SUPPORTED,--
+814,Does iron therapy improve psychomotor development and cognitive function in young children with iron deficiency anaemia?,SUPPORTED,--
+815,Do opioid antagonists help people quit smoking for the long term?,SUPPORTED,--
+816,Does cognitive training improve outcomes for people with mild Alzheimer's disease or vascular dementia?,NOT ENOUGH INFORMATION,--
+817,Is there a preferred pharmaceutical treatment for infantile spasms that effectively controls seizures and improves long-term outcomes?,REFUTED,NOT ENOUGH INFORMATION
+818,Does mammographic screening for breast cancer reduce mortality?,NOT ENOUGH INFORMATION,SUPPORTED
+819,Does increasing fruit and vegetable consumption help prevent cardiovascular disease?,REFUTED,SUPPORTED
+820,Do glucocorticoids improve outcomes in children with acute viral bronchiolitis?,NOT ENOUGH INFORMATION,SUPPORTED
+821,Do antibiotics help reduce symptoms of the common cold?,SUPPORTED,--
+822,Is autoinflation an effective treatment for otitis media with effusion?,SUPPORTED,NOT ENOUGH INFORMATION
+823,Is etanercept more effective than traditional DMARDs for treating rheumatoid arthritis?,NOT ENOUGH INFORMATION,REFUTED
+824,Are topical and oral NSAIDs effective for treating lateral elbow pain?,SUPPORTED,--
+825,Are drug therapies effective in treating sleep apnoea?,SUPPORTED,--
+826,Are proton pump inhibitors more effective than H2-receptor antagonists for treating heartburn in adults?,NOT ENOUGH INFORMATION,--
+827,Does folic or folinic acid supplementation reduce side effects in rheumatoid arthritis patients treated with methotrexate?,REFUTED,SUPPORTED
+828,Is magnesium maintenance therapy effective in preventing preterm birth after threatened preterm labour?,SUPPORTED,--
+829,"Are different thrombolytic agents, doses, and routes of administration effective for treating acute ischaemic stroke?",REFUTED,NOT ENOUGH INFORMATION
+830,Does physician advice help people quit smoking?,REFUTED,--
+831,Does antiretroviral therapy in HIV-infected individuals reduce the risk of HIV transmission to their uninfected partners?,REFUTED,--
+832,Should somatostatin analogues be used routinely in pancreatic surgery?,SUPPORTED,--
+833,Does temozolomide provide benefits for treating high grade glioma?,SUPPORTED,--
+834,Does a longer-term modest reduction in salt intake lower blood pressure?,NOT ENOUGH INFORMATION,--
+835,Is the contraceptive effectiveness of the patch or vaginal ring similar to that of oral contraceptives?,SUPPORTED,--
+836,Do school-based interventions help prevent young people from starting smoking?,NOT ENOUGH INFORMATION,--
+837,Does garlic have a beneficial effect on walking distance in patients with peripheral arterial occlusive disease?,SUPPORTED,--
+838,Is therapeutic ultrasound effective for treating carpal tunnel syndrome?,NOT ENOUGH INFORMATION,SUPPORTED
+839,Does thromboprophylaxis reduce mortality in trauma patients?,SUPPORTED,NOT ENOUGH INFORMATION
+840,Is there a preferred initial treatment for symptomatic patent ductus arteriosus in preterm infants?,NOT ENOUGH INFORMATION,--
+841,Does the timing of loading dental implants affect their success rates?,NOT ENOUGH INFORMATION,--
+842,Is functional treatment more effective than immobilisation for acute ankle sprains?,NOT ENOUGH INFORMATION,--
+843,Is there a specific functional treatment strategy that is most effective for acute lateral ankle ligament ruptures?,SUPPORTED,REFUTED
+844,Do calcium antagonists help reduce seizures in people with drug-resistant epilepsy?,SUPPORTED,--
+845,Does interprofessional education improve collaboration and patient care compared to traditional education methods?,REFUTED,--
+846,Do perioperative NSAIDs reduce the risk of heterotopic bone formation after hip surgery?,REFUTED,--
+847,Is buflomedil effective for treating intermittent claudication?,NOT ENOUGH INFORMATION,SUPPORTED
+848,Does early trophic feeding improve outcomes for very preterm or very low birth weight infants compared to enteral fasting?,SUPPORTED,--
+849,Does starting induction of labour in the evening improve outcomes compared to morning induction?,REFUTED,--
+850,Is therapeutic exercise effective in improving symptoms for people with osteoarthritis?,NOT ENOUGH INFORMATION,--
+851,Does spinal cord stimulation improve limb salvage and clinical outcomes in patients with chronic critical leg ischaemia?,SUPPORTED,--
+852,Does using lower tidal volume ventilation improve survival in patients with acute respiratory distress syndrome?,REFUTED,--
+853,Is transpyloric feeding more beneficial than gastric feeding for preterm infants?,NOT ENOUGH INFORMATION,REFUTED
+854,Is tapered methadone effective in managing opioid withdrawal compared to other treatments?,NOT ENOUGH INFORMATION,--
+855,Is ultrasound therapy effective for treating patellofemoral knee pain syndrome?,REFUTED,--
+856,Is cyclophosphamide more effective than methylprednisolone for treating neuropsychiatric symptoms in systemic lupus erythematosus?,REFUTED,--
+857,Does personalised risk communication improve informed decision making for screening tests?,NOT ENOUGH INFORMATION,SUPPORTED
+858,Are antischistosomal drugs effective in treating Schistosoma mansoni infection?,NOT ENOUGH INFORMATION,--
+859,Is influenza vaccination effective and safe for people with asthma?,SUPPORTED,--
+860,Is the sliding hip screw more effective than fixed nail plates for treating hip fractures?,SUPPORTED,--
+861,Does selenium supplementation help prevent cardiovascular disease?,SUPPORTED,--
+862,Is it safe for obese pregnant women to intentionally lose weight during pregnancy?,REFUTED,NOT ENOUGH INFORMATION
+863,Does interferon monotherapy retreatment provide significant clinical benefits for chronic hepatitis C patients?,SUPPORTED,--
+864,Does therapeutic hypothermia improve outcomes for newborns with hypoxic ischaemic encephalopathy?,SUPPORTED,NOT ENOUGH INFORMATION
+865,Is there a significant difference in effectiveness and safety between single depot GnRHa and daily GnRHa doses in women undergoing IVF?,NOT ENOUGH INFORMATION,--
+866,Are pressure-relieving interventions effective in healing foot ulcers in people with diabetes?,NOT ENOUGH INFORMATION,SUPPORTED
+867,Does Ginkgo biloba extract help prevent the progression of age-related macular degeneration?,NOT ENOUGH INFORMATION,SUPPORTED
+868,Do skin grafts improve healing of venous leg ulcers?,SUPPORTED,--
+869,Does vitamin C help reduce the duration or severity of the common cold?,SUPPORTED,--
+870,Do pneumococcal polysaccharide vaccines effectively prevent pneumococcal disease or death in adults?,SUPPORTED,--
+871,Can antibiotic treatment of bacterial vaginosis in pregnancy reduce the risk of preterm birth?,NOT ENOUGH INFORMATION,--
+872,Is there a significant difference in the efficacy and safety of different instruments and techniques for obtaining chorionic tissue in early pregnancy?,REFUTED,--
+873,Does percutaneous transluminal rotational atherectomy improve outcomes for patients with complex coronary artery lesions?,SUPPORTED,--
+874,Do interventions for healthcare providers that promote patient-centred care improve clinical consultations?,SUPPORTED,--
+875,Does adding intravenous aminophylline to inhaled beta(2)-agonists improve treatment outcomes for adults with acute asthma in the emergency department?,SUPPORTED,NOT ENOUGH INFORMATION
+876,Is inhaled corticosteroid therapy effective for improving outcomes in acute asthma after emergency department discharge?,SUPPORTED,--
+877,Do inhaled corticosteroids help reduce hospital admissions for patients with acute asthma?,REFUTED,SUPPORTED
+878,Is intravenous immunoglobulin effective for treating myasthenia gravis exacerbations?,NOT ENOUGH INFORMATION,--
+879,Do drugs other than desmopressin and tricyclics effectively treat bedwetting in children?,SUPPORTED,--
+880,Are different interventions effective for treating vaginismus?,SUPPORTED,REFUTED
+881,Is pentoxifylline effective for treating venous leg ulcers?,SUPPORTED,--
+882,Does nutritional support improve health outcomes in patients with COPD?,SUPPORTED,--
+883,Does ursodeoxycholic acid provide significant benefits for patients with primary biliary cirrhosis?,NOT ENOUGH INFORMATION,SUPPORTED
+884,Does maternal oxygen administration improve outcomes for fetuses in distress during labor?,SUPPORTED,--
+885,Do barbiturates improve outcomes in patients with acute traumatic brain injury?,SUPPORTED,--
+886,Are benzodiazepines effective for treating schizophrenia and schizophrenia-like psychoses?,SUPPORTED,--
+887,Do different skin closure techniques after caesarean section affect maternal outcomes?,REFUTED,NOT ENOUGH INFORMATION
+888,Is oral horse chestnut seed extract effective and safe for treating chronic venous insufficiency?,NOT ENOUGH INFORMATION,--
+889,Do macrolide antibiotics improve clinical status in people with cystic fibrosis?,SUPPORTED,REFUTED
+890,Does rhIGF-I treatment have a positive effect on disease progression in ALS?,SUPPORTED,NOT ENOUGH INFORMATION
+891,Is depot bromperidol more effective than placebo for treating schizophrenia?,SUPPORTED,NOT ENOUGH INFORMATION
+892,Does early surfactant therapy improve outcomes for newborns with respiratory distress?,REFUTED,NOT ENOUGH INFORMATION
+893,Do topical agents or dressings help relieve pain in venous leg ulcers?,SUPPORTED,--
+894,Are antibiotics effective for treating non-typhoidal Salmonella diarrhoea in healthy individuals?,REFUTED,NOT ENOUGH INFORMATION
+895,Do continuous suturing techniques for perineal repair result in less pain compared to interrupted methods?,NOT ENOUGH INFORMATION,--
+896,Does compression therapy help heal venous ulcers?,SUPPORTED,--
+897,Do topical preparations effectively prevent stretch marks during pregnancy?,SUPPORTED,--
+898,Are oral treatments effective for fungal infections of the skin of the foot?,NOT ENOUGH INFORMATION,--
+899,Is the combined spinal-epidural technique better than traditional epidural analgesia during labor?,SUPPORTED,--
+900,Is methenamine hippurate effective in preventing urinary tract infections in patients without renal tract abnormalities?,NOT ENOUGH INFORMATION,REFUTED
+901,Can oestrogen treatment improve urinary incontinence in women?,SUPPORTED,--
+902,Are exogenous steroid sex hormones effective in treating lower limb atherosclerosis?,SUPPORTED,--
+903,Can postural management improve outcomes for babies in breech presentation?,SUPPORTED,--
+904,Is the combination of inhaled steroids and long-acting beta-agonists more effective than long-acting beta-agonists alone for managing COPD?,SUPPORTED,--
+905,Does antenatal maternal glucose administration improve fetal wellbeing tests?,SUPPORTED,--
+906,Do air ionisers help reduce asthma symptoms?,REFUTED,NOT ENOUGH INFORMATION
+907,Is screening for hepatocellular carcinoma in patients with chronic hepatitis B virus infection beneficial?,SUPPORTED,--
+908,Do treatments to reduce fever in malaria affect the course of the illness?,SUPPORTED,NOT ENOUGH INFORMATION
+909,Are progestogens effective in regulating irregular menstrual bleeding associated with anovulation?,SUPPORTED,--
+910,Are local treatments effective for treating viral warts in healthy individuals?,SUPPORTED,--
+911,Are vitamin K antagonists more effective than antiplatelet therapy for preventing vascular events after a TIA or minor stroke?,SUPPORTED,--
+912,Can the Alexander technique help improve symptoms in people with chronic asthma?,SUPPORTED,NOT ENOUGH INFORMATION
+913,Does piracetam have a beneficial effect on outcomes in acute ischaemic stroke?,SUPPORTED,--
+914,Is there a beneficial effect of the intervention on patient outcomes?,SUPPORTED,--
+915,Is silver acetate effective in helping people quit smoking?,REFUTED,--
+916,Does prophylactic amnioinfusion provide benefits over therapeutic amnioinfusion in labor with oligohydramnios?,REFUTED,--
+917,Does an antigen avoidance diet during pregnancy or lactation help prevent atopic diseases in children?,REFUTED,--
+918,Do psychological interventions have beneficial effects for borderline personality disorder?,SUPPORTED,REFUTED
+919,Does exclusive breastfeeding for six months improve child health compared to shorter durations?,REFUTED,NOT ENOUGH INFORMATION
+920,Are novel speech therapy techniques more effective than standard techniques for treating speech problems in Parkinson's disease?,NOT ENOUGH INFORMATION,--
+921,Is speech and language therapy effective for improving speech problems in Parkinson's disease?,SUPPORTED,NOT ENOUGH INFORMATION
+922,Does ivermectin help prevent visual impairment in onchocerciasis?,SUPPORTED,--
+923,Is minocycline an effective treatment for acne vulgaris?,NOT ENOUGH INFORMATION,--
+924,Is prophylactic use of prostaglandins effective in managing the third stage of labour?,SUPPORTED,NOT ENOUGH INFORMATION
+925,Does hormone therapy with both estrogen and progestogen effectively protect against endometrial hyperplasia?,SUPPORTED,NOT ENOUGH INFORMATION
+926,Do biochemical tests of placental function improve outcomes in high-risk pregnancies?,SUPPORTED,REFUTED
+927,Does care in an alternative birth environment lead to fewer medical interventions compared to a conventional setting?,SUPPORTED,--
+928,Does using regular intravenous antibiotics improve survival rates in cystic fibrosis patients?,REFUTED,--
+929,Do biofeedback and anal sphincter exercises improve faecal incontinence in adults?,REFUTED,NOT ENOUGH INFORMATION
+930,Is intravenous naftidrofuryl effective in treating critical limb ischaemia?,SUPPORTED,--
+931,Do opioids effectively relieve breathlessness in patients receiving palliative care?,SUPPORTED,REFUTED
+932,Is there a difference in effectiveness or safety between different colloid solutions for volume replacement?,SUPPORTED,--
+933,Is surgery more effective than non-surgical treatments for vocal cord nodules?,REFUTED,--
+934,Does operative management for fetal distress improve outcomes for mothers and babies compared to conservative management?,SUPPORTED,--
+935,Does piracetam help improve outcomes for fetal distress during labor?,REFUTED,--
+936,Does prophylactic abdominal decompression improve pregnancy outcomes?,SUPPORTED,--
+937,Is there a clear best treatment for isolated fractures of the ulnar shaft in adults?,SUPPORTED,NOT ENOUGH INFORMATION
+938,Does audit and feedback improve healthcare professionals' practice and patient outcomes?,SUPPORTED,--
+939,Are prophylactic anti-epileptic agents effective in preventing early seizures after a traumatic head injury?,SUPPORTED,--
+940,Does antenatal abdominal decompression improve perinatal outcomes for women with hypertension or impaired fetal growth?,SUPPORTED,--
+941,Are totally implantable venous access devices safe and effective for administering intravenous antibiotics in people with cystic fibrosis?,REFUTED,NOT ENOUGH INFORMATION
+942,Is treating acute exacerbations of COPD at home effective compared to hospital inpatient care?,REFUTED,SUPPORTED
+943,Are inhaled corticosteroids more effective than anti-leukotrienes for treating asthma?,REFUTED,--
+944,Does modifying dietary fats reduce cardiovascular risk?,SUPPORTED,--
+945,Do high intensity interventions during hospital stays help patients quit smoking?,SUPPORTED,--
+946,Does training health professionals improve their effectiveness in helping patients quit smoking?,SUPPORTED,--
+947,Are primary care based asthma clinics effective in managing asthma?,SUPPORTED,NOT ENOUGH INFORMATION
+948,Do angiotensin receptor blockers improve survival or health outcomes in patients with heart failure?,SUPPORTED,--
+949,Do neuraminidase inhibitors effectively treat and prevent influenza in children?,NOT ENOUGH INFORMATION,--
+950,Is single dose oral aspirin effective for managing acute postoperative pain?,NOT ENOUGH INFORMATION,--
+951,Are surgical interventions more effective than non-surgical interventions for treating ingrowing toenails?,SUPPORTED,--
+952,Do outreach respiratory health care worker programmes improve the quality of life for COPD patients?,SUPPORTED,--
+953,Is zuclopenthixol acetate effective for managing acute aggression in psychiatric patients compared to other treatments?,SUPPORTED,--
+954,Do antioxidant supplements help prevent mortality in adults?,SUPPORTED,--
+955,Are progestagens and anti-progestagens effective in treating pain from endometriosis?,NOT ENOUGH INFORMATION,--
+956,Does riluzole prolong survival in patients with amyotrophic lateral sclerosis?,SUPPORTED,NOT ENOUGH INFORMATION
+957,Is prophylactic surfactant administration more effective than treatment of established RDS in very preterm infants?,SUPPORTED,--
+958,Do fibrinogen depleting agents help treat acute ischaemic stroke?,SUPPORTED,--
+959,Are flapless dental implant procedures beneficial for patients?,SUPPORTED,REFUTED
+960,Do antipsychotic drugs have effects on elderly people with late-onset schizophrenia?,NOT ENOUGH INFORMATION,SUPPORTED
+961,Are medical therapies for anal fissure more effective than surgery?,NOT ENOUGH INFORMATION,--
+962,Is there a better surgical method for improving or replacing bladder function using intestinal segments?,NOT ENOUGH INFORMATION,SUPPORTED
+963,Does rhGH treatment improve height in children with chronic kidney disease?,NOT ENOUGH INFORMATION,--
+964,Is the stapled technique more effective than the handsewn technique in colorectal anastomosis surgery?,SUPPORTED,--
+965,Does quitting smoking significantly reduce the risk of death for patients with coronary heart disease?,SUPPORTED,--
+966,Is oral sumatriptan effective for treating acute migraine attacks in adults?,NOT ENOUGH INFORMATION,--
+967,Do organisational infrastructures effectively promote evidence-based nursing?,REFUTED,NOT ENOUGH INFORMATION
+968,Can lobeline help people quit smoking in the long term?,NOT ENOUGH INFORMATION,--
+969,Do different anticholinergic drugs have varying effects on overactive bladder symptoms?,SUPPORTED,--
+970,Are there effective treatments for peri-implantitis around dental implants?,NOT ENOUGH INFORMATION,--
+971,Is decompressive surgery effective in improving survival for patients with massive acute ischaemic stroke and cerebral oedema?,REFUTED,--
+972,Do certain antibiotic regimens effectively reduce infections after cesarean sections?,SUPPORTED,NOT ENOUGH INFORMATION
+973,Is high-dose steroid treatment effective for reducing paralysis after acute spinal cord injury?,SUPPORTED,--
+974,Do hospital-at-home services for acute stroke patients provide better outcomes than conventional hospital care?,SUPPORTED,--
+975,Are life skills programmes effective for improving outcomes in people with chronic mental health problems?,SUPPORTED,NOT ENOUGH INFORMATION
+976,Does amnioinfusion improve outcomes for mothers and babies during labor?,SUPPORTED,--
+977,Do complementary interventions have an effect on bedwetting in children?,REFUTED,NOT ENOUGH INFORMATION
+978,Is day hospital care as effective as inpatient care for acute psychiatric disorders?,NOT ENOUGH INFORMATION,SUPPORTED
+979,Is prescribing heroin to opioid-dependent individuals more effective than traditional treatments like methadone?,REFUTED,NOT ENOUGH INFORMATION
+980,Does suctioning without disconnection from the ventilator improve outcomes in intubated neonates?,SUPPORTED,--
+981,Do antidepressants effectively treat cocaine dependence?,SUPPORTED,--
+982,Do behavioural interventions improve faecal incontinence in children?,NOT ENOUGH INFORMATION,SUPPORTED
+983,Is there a superior method for treating involutional entropion?,NOT ENOUGH INFORMATION,--
+984,Is diuretic administration beneficial for preterm infants with respiratory distress syndrome?,SUPPORTED,--
+985,Does applying traction to a hip fracture before surgery provide any benefits?,SUPPORTED,--
+986,Is caesarean birth for a second twin in breech position better than vaginal birth?,SUPPORTED,--
+987,Is oral immunoglobulin effective in preventing rotavirus infection in low birthweight infants?,NOT ENOUGH INFORMATION,SUPPORTED
+988,Is there a best surgical technique for treating chronic anal fissures?,NOT ENOUGH INFORMATION,SUPPORTED
+989,Does teaching critical appraisal skills to health professionals improve patient outcomes and care processes?,SUPPORTED,--
+990,Does administering human albumin reduce mortality in critically ill patients?,REFUTED,--
+991,Do granulocyte transfusions improve survival in neutropenic septic neonates?,NOT ENOUGH INFORMATION,--
+992,Is oral immunoglobulin effective and safe for treating rotavirus diarrhea in low birth weight infants?,SUPPORTED,--
+993,Does tobacco advertising increase the likelihood that nonsmoking adolescents will start smoking?,REFUTED,--
+994,Does treating iron deficiency anaemia in pregnancy improve outcomes for mothers and babies?,NOT ENOUGH INFORMATION,--
+995,Is venepuncture less painful than heel lance for blood sampling in term neonates?,SUPPORTED,--
+996,Are psychosocial interventions effective in improving outcomes for opioid detoxification when combined with pharmacological treatments?,NOT ENOUGH INFORMATION,SUPPORTED
+997,Does terazosin improve urinary symptoms in men with benign prostatic obstruction?,NOT ENOUGH INFORMATION,--
+998,Are psychosocial and educational interventions effective in preventing alcohol misuse among young people?,SUPPORTED,NOT ENOUGH INFORMATION
+999,Does tamsulosin improve urinary symptoms in men with benign prostatic hyperplasia?,NOT ENOUGH INFORMATION,--
+1000,Do distal diuretics improve lung function in preterm infants with chronic lung disease?,NOT ENOUGH INFORMATION,--
+1001,Is mechanical bowel preparation effective in reducing complications during colorectal surgery?,NOT ENOUGH INFORMATION,--
+1002,Do loop diuretics provide benefits for preterm infants with chronic lung disease?,REFUTED,--
+1003,Is counselling effective for patients with mental health problems in primary care?,SUPPORTED,--
+1004,Can corticosteroids improve outcomes in acute ischaemic stroke?,SUPPORTED,--
+1005,Does a single dose of dexamethasone reduce complications after tonsillectomy?,SUPPORTED,NOT ENOUGH INFORMATION
+1006,Does cot-nursing provide similar benefits to incubator care for preterm infants?,NOT ENOUGH INFORMATION,SUPPORTED
+1007,Is anticoagulant therapy effective and safe for treating cerebral venous sinus thrombosis?,SUPPORTED,REFUTED
+1008,Is there an effective treatment for Achilles tendinitis?,SUPPORTED,NOT ENOUGH INFORMATION
+1009,Do antiretroviral regimens effectively reduce the risk of mother-to-child transmission of HIV?,NOT ENOUGH INFORMATION,SUPPORTED
+1010,Do integration strategies for primary health care services improve healthcare delivery and health status in low- and middle-income countries?,NOT ENOUGH INFORMATION,--
+1011,Is deep suctioning of endotracheal tubes more effective than shallow suctioning in ventilated infants?,NOT ENOUGH INFORMATION,--
+1012,Does providing a written asthma self-management plan improve treatment adherence and outcomes?,SUPPORTED,NOT ENOUGH INFORMATION
+1013,Are community-based interventions effective in preventing young people from starting to smoke?,REFUTED,NOT ENOUGH INFORMATION
+1014,Do interventions help prevent lower limb soft-tissue injuries in runners?,SUPPORTED,NOT ENOUGH INFORMATION
+1015,Can exercise help prevent bone loss in postmenopausal women?,REFUTED,--
+1016,Is bronchial hygiene physical therapy effective for patients with chronic obstructive pulmonary disease and bronchiectasis?,NOT ENOUGH INFORMATION,--
+1017,Can early intervention improve outcomes for people with early symptoms of schizophrenia?,SUPPORTED,--
+1018,Do psychoeducational interventions improve outcomes for patients with schizophrenia compared to standard knowledge provision?,SUPPORTED,--
+1019,Does propylthiouracil have beneficial effects for patients with alcoholic liver disease?,REFUTED,NOT ENOUGH INFORMATION
+1020,Does platinum-based chemotherapy improve survival in patients with locally advanced bladder cancer?,SUPPORTED,NOT ENOUGH INFORMATION
+1021,Does ultrasound therapy help in the treatment of acute ankle sprains?,SUPPORTED,--
+1022,Is adjuvant progestagen therapy effective for treating endometrial cancer?,SUPPORTED,--
+1023,Does antithrombotic treatment improve outcomes for patients with chronic PAD after bypass surgery?,SUPPORTED,--
+1024,Do different generations of progestogens in combined oral contraceptives affect continuation rates and side effects?,SUPPORTED,--
+1025,Is a shorter infusion of paclitaxel as effective as a longer infusion for treating advanced adenocarcinoma?,REFUTED,--
+1026,Is primary radiotherapy to the groin as effective and safe as surgery for early vulvar cancer?,REFUTED,NOT ENOUGH INFORMATION
+1027,Do steroids help improve hearing loss in children with otitis media with effusion?,SUPPORTED,REFUTED
+1028,Does Cernilton improve urinary symptoms in men with benign prostatic hyperplasia?,SUPPORTED,--
+1029,Does treating trichomoniasis during pregnancy improve pregnancy outcomes?,SUPPORTED,--
+1030,Do ankle supports help prevent sprains in active individuals?,REFUTED,--
+1031,Does hyperbaric oxygen therapy help prevent neurological problems in carbon monoxide poisoning?,REFUTED,--
+1032,Does naltrexone maintenance treatment effectively prevent relapse in opioid addicts after detoxification?,SUPPORTED,REFUTED
+1033,Is Assertive Community Treatment effective in managing care for severely mentally ill individuals?,SUPPORTED,--
+1034,Does increased folate consumption reduce the risk of neural tube defects?,SUPPORTED,NOT ENOUGH INFORMATION
+1035,Do behavioural interventions for young women effectively promote safer sexual behaviours to prevent STIs and cervical cancer?,NOT ENOUGH INFORMATION,REFUTED
+1036,Are prophylactic agents effective in preventing oral mucositis in cancer patients undergoing treatment?,NOT ENOUGH INFORMATION,--
+1037,Is cognitive behavioural therapy more effective than other psychological therapies for people with schizophrenia?,NOT ENOUGH INFORMATION,SUPPORTED
+1038,Does case management improve the care of severely mentally ill people in the community?,NOT ENOUGH INFORMATION,--
+1039,Do chemotherapy wafers improve survival for patients with high grade glioma?,SUPPORTED,--
+1040,Is gabapentin effective for managing neuropathic pain?,NOT ENOUGH INFORMATION,REFUTED
+1041,Is platelet-rich plasmapheresis effective in reducing the need for blood transfusions during surgery?,SUPPORTED,--
+1042,Is surgery beneficial and safe for treating lateral elbow pain?,SUPPORTED,--
+1043,Do parenting programmes improve outcomes for teenage parents and their children?,NOT ENOUGH INFORMATION,REFUTED
+1044,Is one technique of tonsillectomy better than the other in terms of morbidity?,NOT ENOUGH INFORMATION,REFUTED
+1045,Do anti-fibrinolytic drugs reduce blood loss and the need for blood transfusion during surgery?,SUPPORTED,NOT ENOUGH INFORMATION
+1046,Is decongestant and antihistamine therapy effective for treating acute otitis media in children?,NOT ENOUGH INFORMATION,--
+1047,Do population-based biomedical STI interventions reduce the incidence of HIV infection?,SUPPORTED,--
+1048,Does reducing dietary sodium improve asthma control?,NOT ENOUGH INFORMATION,REFUTED
+1049,Are oximes effective and safe for treating acute organophosphorus pesticide poisoning?,REFUTED,--
+1050,Is there a significant difference in effectiveness between hMG and rFSH for ovarian stimulation in IVF treatments?,NOT ENOUGH INFORMATION,--
+1051,Do modifications to the home environment help reduce injuries caused by environmental hazards?,REFUTED,--
+1052,Is treatment effective for improving muscle strength in Lambert-Eaton myasthenic syndrome?,SUPPORTED,--
+1053,Do herbal medicines provide benefits in treating rheumatoid arthritis?,SUPPORTED,--
+1054,Are psychological interventions effective in improving symptoms and quality of life in patients with non-ulcer dyspepsia?,REFUTED,--
+1055,Does eradicating H pylori improve symptoms in patients with non-ulcer dyspepsia?,NOT ENOUGH INFORMATION,--
+1056,Are anti-secretory drugs effective in improving symptoms of non-ulcer dyspepsia?,REFUTED,NOT ENOUGH INFORMATION
+1057,Does vitamin D supplementation improve pregnancy outcomes?,SUPPORTED,--
+1058,Does iliac crest autograft provide better outcomes than other techniques for cervical spine fusion?,NOT ENOUGH INFORMATION,--
+1059,Do bile acids have beneficial effects for patients with primary sclerosing cholangitis?,NOT ENOUGH INFORMATION,--
+1060,Is there a specific antibiotic regimen that is most effective for treating urinary tract infections during pregnancy?,SUPPORTED,--
+1061,Do multiple risk factor interventions effectively reduce mortality and events from coronary heart disease in adults without prior clinical evidence of the disease?,SUPPORTED,--
+1062,Does digoxin treatment reduce mortality in premature infants with respiratory distress syndrome?,SUPPORTED,--
+1063,Is sublingual immunotherapy effective and safe for treating allergic rhinitis?,SUPPORTED,--
+1064,Are opioid antagonists effective in treating alcohol dependence?,SUPPORTED,--
+1065,Does prophylactic treatment with methylxanthine reduce apnoea in preterm infants?,NOT ENOUGH INFORMATION,--
+1066,Does methylxanthine treatment reduce apnoea in preterm infants?,SUPPORTED,--
+1067,Does prophylactic methylxanthine treatment improve the chances of successful extubation in preterm infants?,SUPPORTED,--
+1068,Does magnesium sulphate reduce the risk of seizures and maternal death in women with eclampsia compared to diazepam?,NOT ENOUGH INFORMATION,REFUTED
+1069,Do family psychosocial interventions help reduce relapses in people with schizophrenia?,SUPPORTED,NOT ENOUGH INFORMATION
+1070,Can vitamin A supplementation during pregnancy improve maternal and newborn health outcomes?,NOT ENOUGH INFORMATION,--
+1071,Are soft vacuum extractor cups less effective than rigid cups for difficult deliveries?,SUPPORTED,--
+1072,Does using a vacuum extractor for assisted delivery reduce maternal morbidity compared to forceps?,SUPPORTED,--
+1073,Is aspirin effective for relieving itching in late pregnancy without a rash?,NOT ENOUGH INFORMATION,--
+1074,Does magnesium sulphate effectively prevent eclampsia?,SUPPORTED,--
+1075,Is autologous chondrocyte implantation effective and safe for treating knee cartilage defects?,NOT ENOUGH INFORMATION,REFUTED
+1076,Can an oral vaccine for H. influenzae help reduce recurrent episodes in chronic bronchitis?,REFUTED,--
+1077,Is vaginal misoprostol effective for cervical ripening or induction of labour?,NOT ENOUGH INFORMATION,--
+1078,Is there a better functional outcome for patients with eICAD when treated with anticoagulants or antiplatelet agents compared to control?,NOT ENOUGH INFORMATION,--
+1079,Is magnesium sulphate more effective than phenytoin for treating eclampsia?,SUPPORTED,--
+1080,Do non-steroid agents improve outcomes in adults with idiopathic pulmonary fibrosis?,SUPPORTED,NOT ENOUGH INFORMATION
+1081,Is magnesium sulphate more effective than lytic cocktail for treating eclampsia?,SUPPORTED,NOT ENOUGH INFORMATION
+1082,Does antibiotic prophylaxis reduce bacterial infections in cirrhotic patients with upper gastrointestinal bleeding?,SUPPORTED,REFUTED
+1083,Is vacuum aspiration a safer and more effective method for managing incomplete miscarriage compared to sharp curettage?,SUPPORTED,NOT ENOUGH INFORMATION
+1084,Are longer courses of antibiotics more effective than shorter courses for treating acute otitis media in children?,NOT ENOUGH INFORMATION,SUPPORTED
+1085,Do treatments for nausea and vomiting in early pregnancy have beneficial effects?,REFUTED,SUPPORTED
+1086,Are there effective interventions for maintaining soft tissue health around dental implants?,REFUTED,--
+1087,Is there an effective treatment for oral mucositis in cancer patients undergoing chemotherapy or radiotherapy?,REFUTED,NOT ENOUGH INFORMATION
+1088,Do physical methods effectively reduce the risk of DVT in patients with recent stroke?,NOT ENOUGH INFORMATION,--
+1089,Is aerobic exercise safe and beneficial for adults living with HIV?,SUPPORTED,NOT ENOUGH INFORMATION
+1090,Does allergen specific immunotherapy improve asthma symptoms?,SUPPORTED,--
+1091,Are injected cholera vaccines effective in preventing cholera and death?,SUPPORTED,NOT ENOUGH INFORMATION
+1092,Is lumiracoxib effective for managing moderate to severe postoperative pain?,NOT ENOUGH INFORMATION,--
+1093,Should blood pressure be actively altered during the acute phase of stroke?,NOT ENOUGH INFORMATION,--
+1094,Is behavioural therapy effective for managing chronic low-back pain?,SUPPORTED,--
+1095,Is there an effective treatment for oral candidiasis in cancer patients undergoing chemotherapy or radiotherapy?,REFUTED,--
+1096,Do measures to reduce house dust mite exposure help manage allergic rhinitis?,SUPPORTED,--
+1097,Do outpatient pharmacists improve patient care outcomes?,NOT ENOUGH INFORMATION,--
+1098,Does prophylactic indomethacin reduce mortality and morbidity in preterm infants?,NOT ENOUGH INFORMATION,REFUTED
+1099,Does bed rest in hospital help prevent preterm birth in women with multiple pregnancies?,SUPPORTED,--
+1100,Do drugs have beneficial effects for treating borderline personality disorder?,REFUTED,--
+1101,Does cementing hip prostheses improve post-operative pain and mobility?,SUPPORTED,--
+1102,Is resting in bed effective for treating acute low-back pain or sciatica?,SUPPORTED,NOT ENOUGH INFORMATION
+1103,Do different suture materials affect pain and recovery after perineal repair?,SUPPORTED,--
+1104,Does adding long-acting inhaled beta-agonists to inhaled corticosteroids improve asthma control in patients not well managed on corticosteroids alone?,NOT ENOUGH INFORMATION,SUPPORTED
+1105,Is glatiramer acetate effective for treating relapsing remitting multiple sclerosis?,SUPPORTED,NOT ENOUGH INFORMATION
+1106,Does orientation and mobility training improve travel independence for adults with low vision?,SUPPORTED,--
+1107,Do prophylactic antibiotics help prevent infection and mortality in acute pancreatitis with pancreatic necrosis?,SUPPORTED,--
+1108,Is aerosolized ribavirin effective for treating infants and children with RSV infections?,SUPPORTED,--
+1109,Is sertraline more effective and acceptable than other antidepressants for treating major depression?,SUPPORTED,--
+1110,Is the combination of long-acting beta-agonists and inhaled corticosteroids more effective than a higher dose of inhaled corticosteroids for asthma control?,NOT ENOUGH INFORMATION,--
+1111,Does metformin treatment increase the risk of lactic acidosis compared to other treatments?,SUPPORTED,--
+1112,Does cisapride effectively reduce symptoms of gastro-oesophageal reflux in infants?,REFUTED,--
+1113,Does routine ultrasound in early pregnancy improve the detection of multiple pregnancies and fetal malformations?,SUPPORTED,--
+1114,Do bile acids have beneficial effects for liver-transplanted patients?,REFUTED,--
+1115,Do organized follow-up systems improve blood pressure control in patients with hypertension?,REFUTED,--
+1116,Is emergency sclerotherapy effective compared to vasoactive drugs for treating variceal bleeding in cirrhosis?,SUPPORTED,--
+1117,Can tamoxifen be beneficial for women with relapsed ovarian cancer?,SUPPORTED,--
+1118,Does giving antibiotics before surgery for fractures help reduce infections?,SUPPORTED,--
+1119,Do medical and surgical treatments have an effect on normal tension glaucoma?,SUPPORTED,--
+1120,Do neuraminidase inhibitors effectively prevent and treat influenza in healthy adults?,REFUTED,--
+1121,Is combination therapy with ribavirin and interferon more effective than interferon alone for treating chronic hepatitis C?,NOT ENOUGH INFORMATION,--
+1122,Do placebo interventions generally have important clinical effects?,NOT ENOUGH INFORMATION,SUPPORTED
+1123,Does debridement improve the healing of diabetic foot ulcers?,SUPPORTED,--
+1124,Is there an optimal duration and regimen for antithyroid drug therapy in treating Graves' hyperthyroidism?,NOT ENOUGH INFORMATION,--
+1125,Do scapular fixation techniques improve upper limb function in muscular dystrophy?,NOT ENOUGH INFORMATION,SUPPORTED
+1126,Does the use of endovascular stents improve symptoms in patients with claudication compared to angioplasty alone?,REFUTED,--
+1127,Is therapeutic ultrasound effective for reducing pain and improving function in patients with osteoarthritis of the knee?,NOT ENOUGH INFORMATION,--
+1128,Do surgical sealants effectively prevent or reduce postoperative air leaks after lung surgery?,REFUTED,--
+1129,Is enteral nutrition more effective than total parenteral nutrition for patients with acute pancreatitis?,NOT ENOUGH INFORMATION,--
+1130,Is combined chemotherapy and radiotherapy more effective than radiotherapy alone for localized esophageal cancer?,REFUTED,--
+1131,Do opioid antagonists effectively induce withdrawal symptoms when used with heavy sedation or anaesthesia?,REFUTED,--
+1132,Does surgical treatment for cervical radiculopathy or myelopathy improve outcomes compared to conservative management?,NOT ENOUGH INFORMATION,--
+1133,Are antibiotics effective and safe for treating leptospirosis?,SUPPORTED,NOT ENOUGH INFORMATION
+1134,Are anticonvulsant drugs effective for managing chronic pain?,SUPPORTED,--
+1135,Does caffeine improve lung function in people with asthma?,SUPPORTED,--
+1136,Does prophylactic administration of protein free synthetic surfactant reduce mortality and complications in preterm newborns at risk for respiratory distress syndrome?,SUPPORTED,--
+1137,Does antenatal cardiotocography improve perinatal and maternal outcomes?,SUPPORTED,NOT ENOUGH INFORMATION
+1138,Is there an optimal non-blood replacement fluid for abdominal aorta procedures?,REFUTED,--
+1139,Do prophylactic antibiotics reduce the risk of infections in women undergoing cesarean delivery?,SUPPORTED,--
+1140,Are treatments for plantar heel pain effective?,NOT ENOUGH INFORMATION,--
+1141,Is caffeine as effective as theophylline in reducing apnea in preterm infants?,SUPPORTED,--
+1142,Does administering vitamin K to women at risk of very preterm birth help prevent brain injuries in their infants?,SUPPORTED,--
+1143,Does TB preventive therapy reduce the risk of active tuberculosis in HIV-infected individuals?,SUPPORTED,NOT ENOUGH INFORMATION
+1144,Does giving phenobarbital to women at risk of preterm birth help prevent brain injuries in their infants?,REFUTED,NOT ENOUGH INFORMATION
+1145,Does intrapartum antibiotic treatment for women colonized with group B streptococcus reduce the risk of neonatal infection?,SUPPORTED,NOT ENOUGH INFORMATION
+1146,Does Doppler ultrasound improve outcomes in high risk pregnancies?,SUPPORTED,--
+1147,Is clomiphene citrate effective in improving pregnancy outcomes for women with unexplained subfertility?,SUPPORTED,REFUTED
+1148,Is ribavirin monotherapy effective for treating chronic hepatitis C?,NOT ENOUGH INFORMATION,--
+1149,Does combining inhaled corticosteroids with long-acting beta-agonists improve asthma control compared to inhaled corticosteroids alone in steroid-naive patients?,SUPPORTED,--
+1150,Do shorter fasting periods before surgery improve comfort and reduce complications in children?,SUPPORTED,REFUTED
+1151,Is the pneumococcal conjugate vaccine effective in preventing pneumonia and invasive pneumococcal disease in children?,SUPPORTED,--
+1152,Is rofecoxib effective for treating moderate to severe postoperative pain?,REFUTED,SUPPORTED
+1153,Is enamel matrix derivative effective for treating intrabony defects in periodontitis?,NOT ENOUGH INFORMATION,REFUTED
+1154,Are augmentation procedures necessary for dental implants in patients with insufficient bone?,SUPPORTED,NOT ENOUGH INFORMATION
+1155,Does oxytocin alone effectively induce labor compared to other methods?,NOT ENOUGH INFORMATION,--
+1156,Does day hospital care provide benefits over outpatient care for people with severe mental illness?,NOT ENOUGH INFORMATION,--
+1157,Is transcutaneous electrostimulation effective for pain relief in knee osteoarthritis?,NOT ENOUGH INFORMATION,--
+1158,Does anxiolytic premedication affect the time to discharge after day case surgery?,NOT ENOUGH INFORMATION,--
+1159,Are proton pump inhibitors effective for treating dyspepsia?,SUPPORTED,--
+1160,Is video-assisted thoracoscopic surgery more effective than chest tube drainage for treating large pleural empyemas?,SUPPORTED,NOT ENOUGH INFORMATION
+1161,Are antenatal day care units as effective as hospital admission for women with pregnancy complications?,SUPPORTED,--
+1162,Is the conjugate Hib vaccine effective in preventing disease or death in children under five?,NOT ENOUGH INFORMATION,--
+1163,Does chest radiography improve outcomes in patients with acute lower respiratory infections?,REFUTED,--
+1164,Do antihistamines help relieve symptoms of the common cold?,SUPPORTED,--
+1165,Are thienopyridine derivatives more effective than aspirin for preventing serious vascular events in high-risk patients?,REFUTED,--
+1166,Is cognitive behavioural therapy effective for treating bulimia nervosa and related eating disorders?,NOT ENOUGH INFORMATION,SUPPORTED
+1167,Does coordinated multidisciplinary inpatient rehabilitation improve outcomes for older patients with hip fractures compared to usual care?,REFUTED,--
+1168,Does treating gestational diabetes improve outcomes for mothers and infants?,NOT ENOUGH INFORMATION,--
+1169,Is there a specific type of surgical intervention that is best for treating distal radius fractures in adults?,NOT ENOUGH INFORMATION,--
+1170,Is high frequency oscillatory ventilation more effective than conventional ventilation for infants with severe respiratory failure?,REFUTED,SUPPORTED
+1171,Does mifepristone help induce labor in the third trimester?,SUPPORTED,--
+1172,Is single dose oral oxycodone effective for treating acute postoperative pain in adults?,SUPPORTED,--
+1173,Does progressive resistance training improve physical functioning in older people?,SUPPORTED,--
+1174,Is methadone maintenance treatment effective for treating heroin dependence compared to non-opioid replacement therapies?,SUPPORTED,--
+1175,Can altering cholesterol levels help prevent further cardiovascular events in patients with a history of stroke?,SUPPORTED,--
+1176,Is ibuprofen effective for treating moderate to severe postoperative pain in adults?,SUPPORTED,--
+1177,Is doxycycline effective for preventing leptospirosis in high-risk populations?,SUPPORTED,--
+1178,Are corticosteroids effective in preventing or treating post-extubation stridor?,SUPPORTED,--
+1179,Is active management of the third stage of labour better than expectant management for reducing blood loss and complications?,SUPPORTED,--
+1180,Does male circumcision help reduce the risk of HIV acquisition in heterosexual men?,REFUTED,--
+1181,Does providing extra protein and energy improve nutritional status and clinical outcomes in older people at risk of malnutrition?,SUPPORTED,--
+1182,Is there an effective medication for treating amphetamine withdrawal?,NOT ENOUGH INFORMATION,--
+1183,Are nasal decongestants effective in relieving nasal congestion caused by the common cold?,REFUTED,SUPPORTED
+1184,Is postoperative hydrotubation beneficial after female pelvic reproductive surgery?,SUPPORTED,NOT ENOUGH INFORMATION
+1185,Does asthma education for children and their caregivers reduce the risk of future emergency department visits and hospital admissions?,NOT ENOUGH INFORMATION,--
+1186,Do interventions for correcting hallux valgus improve patient outcomes?,NOT ENOUGH INFORMATION,SUPPORTED
+1187,Is there sufficient evidence to support the use of specific surgical techniques for fixing extracapsular hip fractures?,REFUTED,--
+1188,Does intercessory prayer have a beneficial effect on health when combined with routine care?,REFUTED,--
+1189,Do interventions exist that can reduce falls in elderly people?,REFUTED,SUPPORTED
+1190,Does prolonged anticoagulant therapy reduce the risk of further vascular events after a non-cardioembolic ischaemic stroke?,NOT ENOUGH INFORMATION,--
+1191,Is spironolactone effective in reducing excessive hair growth in women?,REFUTED,NOT ENOUGH INFORMATION
+1192,Is inhaled insulin as effective as injected insulin for managing diabetes?,REFUTED,SUPPORTED
+1193,Does estrogen replacement therapy help improve cognitive function in postmenopausal women with dementia?,NOT ENOUGH INFORMATION,SUPPORTED
+1194,Is Ginkgo biloba effective for treating dementia or cognitive decline?,SUPPORTED,--
+1195,Are antipsychotic medications effective in treating amphetamine psychosis?,NOT ENOUGH INFORMATION,SUPPORTED
+1196,Is biopsychosocial rehabilitation effective for treating upper limb repetitive strain injuries?,SUPPORTED,NOT ENOUGH INFORMATION
+1197,Are foot and knee orthotics effective for treating patellofemoral pain syndrome?,SUPPORTED,NOT ENOUGH INFORMATION
+1198,Is there a clear benefit to using specific antibiotic therapies for treating spontaneous bacterial peritonitis in cirrhotic patients?,NOT ENOUGH INFORMATION,--
+1199,Is carbamazepine effective for treating cocaine dependence?,SUPPORTED,--
+1200,Does combining paracetamol with codeine provide better pain relief than paracetamol alone in postoperative patients?,REFUTED,--
+1201,Does newborn screening for cystic fibrosis improve clinical outcomes and quality of life?,REFUTED,--
+1202,Do surgical interventions improve outcomes for meniscal injuries compared to conservative treatment?,SUPPORTED,--
+1203,Can lowering body temperature improve outcomes in patients with acute stroke?,REFUTED,--
+1204,Do neoadjuvant and adjuvant therapies improve outcomes after surgery for hepatocellular carcinoma?,NOT ENOUGH INFORMATION,--
+1205,Does targeting a specific blood oxygen level in preterm infants affect their health outcomes?,REFUTED,NOT ENOUGH INFORMATION
+1206,Are vaccines effective in preventing tick-borne encephalitis?,REFUTED,NOT ENOUGH INFORMATION
+1207,Does involving primary care professionals in diabetes care improve patient outcomes compared to specialist follow-up?,NOT ENOUGH INFORMATION,--
+1208,Do on-site mental health workers improve the clinical behavior of primary care providers?,REFUTED,--
+1209,Does administering multiple doses of surfactant improve outcomes in premature infants with respiratory distress syndrome?,REFUTED,--
+1210,Is clozapine more effective than typical antipsychotic drugs for treating schizophrenia?,SUPPORTED,--
+1211,Do interventions exist that can effectively improve outpatient referral rates?,NOT ENOUGH INFORMATION,--
+1212,Do psychological interventions reduce sexual offending behaviors in convicted individuals?,NOT ENOUGH INFORMATION,SUPPORTED
+1213,Is single dose oral paracetamol effective for treating acute postoperative pain?,NOT ENOUGH INFORMATION,--
+1214,Does folic acid supplementation help prevent cognitive impairment in the elderly?,SUPPORTED,NOT ENOUGH INFORMATION
+1215,Does radiotherapy improve long-term survival in breast cancer patients?,NOT ENOUGH INFORMATION,--
+1216,Does inhaled fluticasone propionate improve asthma control at higher doses compared to lower doses?,NOT ENOUGH INFORMATION,--
+1217,Do G-CSF and GM-CSF help improve overall survival in patients with malignant lymphoma?,SUPPORTED,--
+1218,Do care home environments improve rehabilitation outcomes for older people compared to hospital or home environments?,SUPPORTED,--
+1219,Is inhaled fluticasone propionate effective for treating chronic asthma compared to placebo?,SUPPORTED,REFUTED
+1220,Is TENS more effective than placebo for managing chronic low-back pain?,SUPPORTED,REFUTED
+1221,Is caudal epidural analgesia more effective than other forms of postoperative analgesia after circumcision in boys?,NOT ENOUGH INFORMATION,--
+1222,Do interventions improve communication with children and adolescents about their cancer and treatment?,SUPPORTED,--
+1223,Is sodium cromoglycate effective compared to placebo for treating childhood asthma?,REFUTED,NOT ENOUGH INFORMATION
+1224,Is combined treatment with chemotherapy and radiotherapy effective for improving survival rates in children with early Hodgkin's disease?,SUPPORTED,NOT ENOUGH INFORMATION
+1225,Can oestrogens and progestins help prevent or treat postpartum depression?,NOT ENOUGH INFORMATION,--
+1226,Is there a clear benefit of surgical treatment over non-surgical treatment for calcaneal fractures?,REFUTED,--
+1227,Does adjuvant polychemotherapy improve survival rates in women with early breast cancer?,SUPPORTED,--
+1228,Does adjuvant tamoxifen improve survival in women with ER-positive breast cancer?,NOT ENOUGH INFORMATION,SUPPORTED
+1229,Does ovarian ablation improve long-term survival in women with early breast cancer?,SUPPORTED,REFUTED
+1230,Do weight-loss diets help lower blood pressure in overweight hypertensive adults?,SUPPORTED,REFUTED
+1231,Are extracts of St. John's wort more effective than placebo for treating major depression?,NOT ENOUGH INFORMATION,--
+1232,Does surgery combined with medical management improve outcomes for patients with primary supratentorial intracerebral haematoma?,SUPPORTED,--
+1233,Does continuity of care during pregnancy and childbirth improve outcomes compared to care by multiple caregivers?,NOT ENOUGH INFORMATION,--
+1234,Do somatostatin or its analogues improve survival in patients with bleeding oesophageal varices?,SUPPORTED,--
+1235,Does luteal phase support after assisted reproduction increase the pregnancy rate?,REFUTED,--
+1236,Do low-fat diets help people maintain long-term weight loss better than other diets?,SUPPORTED,--
+1237,Is there a difference in the success and patient satisfaction between different surgical techniques for dental implants?,REFUTED,--
+1238,Is injection therapy more effective than placebo for low-back pain?,SUPPORTED,--
+1239,Is erythromycin effective in preventing feeding intolerance in preterm infants?,SUPPORTED,REFUTED
+1240,Do recordings or summaries of medical consultations help cancer patients and their families?,REFUTED,NOT ENOUGH INFORMATION
+1241,Is a short course of antibiotic treatment effective for uncomplicated urinary tract infections in elderly women?,REFUTED,--
+1242,Is ECMO more effective than conventional ventilatory support for infants with severe respiratory failure?,REFUTED,--
+1243,Do multi-component strategies effectively reduce smoking in public places?,SUPPORTED,--
+1244,Do behavioral interventions help reduce unprotected anal sex among men who have sex with men?,NOT ENOUGH INFORMATION,REFUTED
+1245,Is cognitive behaviour therapy effective in reducing symptoms of chronic fatigue syndrome?,NOT ENOUGH INFORMATION,SUPPORTED
+1246,Is operative treatment generally more effective than conservative treatment for hip fractures?,SUPPORTED,--
+1247,Do amino acid therapies help prolong survival or slow the progression of amyotrophic lateral sclerosis?,REFUTED,--
+1248,Are certain surgical techniques more effective for sperm retrieval in men with azoospermia before ICSI?,SUPPORTED,--
+1249,Does heparin help prevent complications associated with peripherally placed central venous catheters in neonates?,REFUTED,NOT ENOUGH INFORMATION
+1250,Are lumbar supports effective for preventing or treating low-back pain?,SUPPORTED,--
+1251,Does reducing exposure to house dust mite allergens improve asthma symptoms in sensitive individuals?,SUPPORTED,--
+1252,Do antibiotics help treat persistent nasal discharge in children?,REFUTED,SUPPORTED
+1253,Do home-visiting programs improve outcomes for disadvantaged mothers and their children?,SUPPORTED,--
+1254,Does the use of biocompatible membranes improve survival or recovery of renal function in patients with acute renal failure?,NOT ENOUGH INFORMATION,REFUTED
+1255,Are interventions effective for learning disabled sex offenders?,NOT ENOUGH INFORMATION,--
+1256,Does etidronate help prevent osteoporotic fractures in postmenopausal women?,REFUTED,NOT ENOUGH INFORMATION
+1257,Does omega-3 PUFA supplementation improve cardiovascular outcomes in people with type 2 diabetes?,SUPPORTED,--
+1258,Can hormone therapy prevent cognitive decline in postmenopausal women?,SUPPORTED,NOT ENOUGH INFORMATION
+1259,Does the type of nasal interface for NCPAP delivery affect the need for additional respiratory support in preterm infants?,SUPPORTED,--
+1260,Are there effective interventions to reduce pain during screening mammography?,NOT ENOUGH INFORMATION,SUPPORTED
+1261,Is physiotherapy effective in managing ankylosing spondylitis?,SUPPORTED,--
+1262,Do specialist epilepsy clinics improve outcomes for people with epilepsy?,REFUTED,SUPPORTED
+1263,Can specialist epilepsy nurses improve the quality of care for people with epilepsy?,NOT ENOUGH INFORMATION,--
+1264,Does vinpocetine have an effect on patients with acute ischaemic stroke?,NOT ENOUGH INFORMATION,--
+1265,Are NSAIDs effective for treating non-specific low-back pain?,SUPPORTED,--
+1266,Does dynamic exercise therapy improve physical capacity in patients with rheumatoid arthritis?,SUPPORTED,--
+1267,Does mefloquine effectively prevent malaria in adult travellers despite potential adverse effects?,NOT ENOUGH INFORMATION,--
+1268,Does the biophysical profile improve pregnancy outcomes in high-risk pregnancies compared to conventional monitoring?,NOT ENOUGH INFORMATION,--
+1269,Are antidepressant drugs effective for treating neuropathic pain?,SUPPORTED,--
+1270,Are alternative surgical techniques more effective than standard open carpal tunnel release for treating carpal tunnel syndrome?,NOT ENOUGH INFORMATION,--
+1271,Does exercise training improve symptoms and physical function in individuals with fibromyalgia?,NOT ENOUGH INFORMATION,SUPPORTED
+1272,Does bromocriptine combined with levodopa help delay motor complications in Parkinson's disease?,NOT ENOUGH INFORMATION,--
+1273,Is there a clear advantage of institutional care over at-home care for functionally dependent older people?,NOT ENOUGH INFORMATION,--
+1274,Is treating acute psychosis in general medical wards as effective as in psychiatric units?,SUPPORTED,REFUTED
+1275,Can physical therapies effectively prevent incontinence in adults?,SUPPORTED,--
+1276,Do bile acids have beneficial effects for patients with viral hepatitis?,NOT ENOUGH INFORMATION,--
+1277,Is early surfactant administration followed by extubation more beneficial than later selective surfactant administration with continued mechanical ventilation in preterm infants with RDS?,SUPPORTED,REFUTED
+1278,Is Fluticasone more effective than Beclomethasone or Budesonide for treating chronic asthma?,SUPPORTED,--
+1279,Can bromocriptine help delay motor complications in patients with Parkinson's disease?,SUPPORTED,--
+1280,Does dietary protein restriction help slow the progression of diabetic nephropathy in patients with diabetes?,SUPPORTED,--
+1281,Is loxapine more effective than other antipsychotic medications for treating schizophrenia?,REFUTED,--
+1282,Is routine antibiotic prophylaxis effective for women with incomplete abortion?,REFUTED,--
+1283,Does adopting a hands and knees position during labor help improve fetal positioning?,SUPPORTED,--
+1284,Does intraventricular streptokinase reduce the risk of permanent shunt dependence in neonates with post-hemorrhagic hydrocephalus?,SUPPORTED,--
+1285,Do educational outreach visits improve healthcare professionals' practices or patient outcomes?,SUPPORTED,REFUTED
+1286,Does lipid-lowering therapy reduce cardiovascular events in patients with lower limb peripheral arterial disease?,SUPPORTED,--
+1287,Is danazol effective in treating the symptoms of endometriosis?,SUPPORTED,--
+1288,Does calcium supplementation improve bone density in postmenopausal women?,SUPPORTED,--
+1289,Does recombinant human growth hormone improve growth in children with idiopathic short stature?,SUPPORTED,--
+1290,Is amitriptyline as effective as newer antidepressants?,SUPPORTED,NOT ENOUGH INFORMATION
+1291,Does avoiding cow's milk protein in infants with a family history of atopy help prevent asthma or wheeze?,REFUTED,NOT ENOUGH INFORMATION
+1292,Do anticoagulants help prevent thromboembolism after major gynaecological surgery?,REFUTED,SUPPORTED
+1293,Does staying active help patients with low back pain?,NOT ENOUGH INFORMATION,--
+1294,Are psychosocial interventions by general practitioners effective for improving patient outcomes?,NOT ENOUGH INFORMATION,--
+1295,Is eletriptan effective for treating acute migraine attacks?,REFUTED,--
+1296,Is rizatriptan effective for treating acute migraine attacks?,NOT ENOUGH INFORMATION,REFUTED
+1297,Is artemether-lumefantrine more effective than other antimalarial drugs for treating uncomplicated malaria?,SUPPORTED,REFUTED
+1298,Does antenatal education improve outcomes for childbirth and parenting?,NOT ENOUGH INFORMATION,--
+1299,Is occupational therapy effective for patients with Parkinson's disease compared to no treatment?,REFUTED,--
+1300,Is recombinant FSH more effective than urinary FSH for ovarian stimulation in IVF treatments?,SUPPORTED,--
+1301,Is cryopreservation effective in preventing ovarian hyperstimulation syndrome?,REFUTED,--
+1302,Do selective serotonin reuptake inhibitors have better tolerability than tricyclic antidepressants?,SUPPORTED,REFUTED
+1303,Are there effective antivirals available to prevent or minimize the common cold?,NOT ENOUGH INFORMATION,--
+1304,Does combination therapy with ribavirin and interferon improve treatment outcomes for patients with chronic hepatitis C?,REFUTED,--
+1305,Can angiotensin converting enzyme inhibitors help slow the progression of early diabetic renal disease in normotensive patients?,NOT ENOUGH INFORMATION,REFUTED
+1306,Does providing mothers with commercial discharge packs affect exclusive breastfeeding rates?,NOT ENOUGH INFORMATION,--
+1307,Is low level laser therapy effective for treating osteoarthritis?,SUPPORTED,REFUTED
+1308,Is photodynamic therapy effective in treating neovascular age-related macular degeneration?,NOT ENOUGH INFORMATION,SUPPORTED
+1309,Is thioridazine effective for treating schizophrenia?,REFUTED,--
+1310,Does using medications for atrial fibrillation reduce the risk of stroke?,REFUTED,NOT ENOUGH INFORMATION
+1311,Are selective serotonin reuptake inhibitors more effective than other antidepressants?,NOT ENOUGH INFORMATION,SUPPORTED
+1312,Is closed suction drainage effective in reducing complications after orthopaedic surgery?,REFUTED,--
+1313,Does dipyridamole improve outcomes for patients with vascular disease compared to no treatment?,NOT ENOUGH INFORMATION,--
+1314,Is passive prophylaxis effective in preventing hospitalizations due to respiratory syncytial virus in high-risk infants?,REFUTED,SUPPORTED
+1315,Is primary coronary angioplasty better than thrombolytic therapy for treating acute myocardial infarction?,REFUTED,NOT ENOUGH INFORMATION
+1316,Are psychological and pharmacological treatments effective for pathological gambling?,SUPPORTED,--
+1317,Do topical treatments effectively reduce fungal infections of the feet and toenails?,SUPPORTED,--
+1318,Is pelvic floor muscle training effective for women with urinary incontinence?,SUPPORTED,--
+1319,"Are physiotherapist-led rehabilitation programs effective for knee injuries like ACL, MCL, and meniscal injuries?",REFUTED,--
+1320,Do antiviral agents effectively prevent cytomegalovirus infection in solid organ transplant recipients?,SUPPORTED,--
+1321,Are antidepressants effective for treating depression in people with physical illnesses?,NOT ENOUGH INFORMATION,--
+1322,Does electrical stimulation have an effect on treating faecal incontinence in adults?,SUPPORTED,--
+1323,Are long-acting beta-2 agonists more effective and safer than theophylline for treating asthma?,NOT ENOUGH INFORMATION,--
+1324,Is rice-based oral rehydration solution more effective than glucose-based solution in reducing stool output in patients with acute watery diarrhoea?,SUPPORTED,REFUTED
+1325,Are different opioids effective for pain relief during labor?,SUPPORTED,REFUTED
+1326,Are certain chemical treatments effective for head lice?,SUPPORTED,--
+1327,Is there sufficient evidence to support the effectiveness of common treatments for shoulder pain?,SUPPORTED,--
+1328,Does treatment with mannitol reduce fatality and dependency after a stroke?,NOT ENOUGH INFORMATION,--
+1329,Does routine iron and folate supplementation improve pregnancy outcomes?,SUPPORTED,NOT ENOUGH INFORMATION
+1330,Does Reality Orientation therapy improve cognition and behavior in elderly persons with dementia?,NOT ENOUGH INFORMATION,--
+1331,Is Danazol an effective treatment for heavy menstrual bleeding in women?,REFUTED,--
+1332,Are anthrax vaccines effective in reducing the risk of contracting anthrax?,NOT ENOUGH INFORMATION,--
+1333,Does professional or social support help in treating postpartum depression?,SUPPORTED,--
+1334,Are some non-steroidal anti-inflammatory drugs more effective than others for treating hip osteoarthritis?,NOT ENOUGH INFORMATION,--
+1335,Can antiplatelet agents help prevent pre-eclampsia in at-risk women?,REFUTED,--
+1336,Is treatment with aural toilet and topical antibiotics effective for chronic suppurative otitis media?,SUPPORTED,--
+1337,Are multidisciplinary team interventions effective in managing delirium in elderly patients with cognitive impairment?,REFUTED,--
+1338,Do interventions improve the delivery of preventive services in primary care?,NOT ENOUGH INFORMATION,--
+1339,Are Gonadotrophin Releasing Hormone analogues effective in treating the painful symptoms of endometriosis?,REFUTED,--
+1340,Is topical permethrin an effective treatment for scabies?,SUPPORTED,--
+1341,Does DHEA or DHEAS improve cognitive function in older adults or those with dementia?,SUPPORTED,--
+1342,Do calcium antagonists improve outcomes in patients with aneurysmal subarachnoid haemorrhage?,SUPPORTED,--
+1343,Is community mental health team treatment effective for people with serious mental illness compared to standard care?,NOT ENOUGH INFORMATION,REFUTED
+1344,Does very tight glycaemic control improve outcomes for pregnant women with insulin-dependent diabetes?,NOT ENOUGH INFORMATION,--
+1345,Is tinidazole an effective treatment for giardiasis?,NOT ENOUGH INFORMATION,--
+1346,Does transcutaneous electrical nerve stimulation help reduce pain and improve movement in chronic low back pain?,SUPPORTED,--
+1347,Do corticosteroids help reduce relapses in asthma patients after emergency treatment?,SUPPORTED,--
+1348,Does single layer closure of the uterine incision at caesarean section offer any significant advantages over two layer closure?,NOT ENOUGH INFORMATION,--
+1349,Does folate supplementation during pregnancy improve blood health?,NOT ENOUGH INFORMATION,--
+1350,Do interventions aimed at managing post-term pregnancy improve outcomes for mothers and babies?,SUPPORTED,--
+1351,Do ovulation suppression agents improve pregnancy outcomes in women with endometriosis?,NOT ENOUGH INFORMATION,--
+1352,Is there a significant difference in the effectiveness of different NSAIDs for treating knee osteoarthritis?,NOT ENOUGH INFORMATION,--
+1353,Does iodine supplementation during pregnancy reduce the risk of intellectual impairment in iodine-deficient areas?,SUPPORTED,--
+1354,Does manual removal of the placenta at caesarean section have harmful effects?,SUPPORTED,NOT ENOUGH INFORMATION
+1355,Do malaria vaccines provide effective protection against Plasmodium falciparum infection?,SUPPORTED,--
+1356,Does lateral tilt during caesarean section have a beneficial effect on the fetus or newborn compared to the supine position?,NOT ENOUGH INFORMATION,SUPPORTED
+1357,Does iron supplementation improve pregnancy outcomes and prevent low haemoglobin levels?,SUPPORTED,NOT ENOUGH INFORMATION
+1358,Does primary dietary therapy improve fetal growth and neonatal outcomes in women with gestational diabetes?,NOT ENOUGH INFORMATION,--
+1359,Do corticosteroids given to pregnant women help prevent respiratory distress syndrome in preterm infants?,SUPPORTED,NOT ENOUGH INFORMATION
+1360,Does routine continuous electronic fetal monitoring during labor provide significant benefits compared to intermittent auscultation?,NOT ENOUGH INFORMATION,SUPPORTED
+1361,Do interventions exist that can effectively relieve breast engorgement in breastfeeding women?,NOT ENOUGH INFORMATION,--
+1362,Can bromocriptine help women with unexplained subfertility?,SUPPORTED,--
+1363,Do routine blood transfusions help reduce pregnancy complications for women with sickle cell disease?,NOT ENOUGH INFORMATION,REFUTED
+1364,Does early amniotomy reduce the rate of Cesarean delivery?,SUPPORTED,--
+1365,Does using a stapler with absorbable staples during a caesarean section reduce blood loss?,NOT ENOUGH INFORMATION,--
+1366,Is G-CSF effective as an adjunct to antibiotics for treating pneumonia in non-neutropenic adults?,REFUTED,--
+1367,Does out-patient or home-based management of children newly diagnosed with type 1 diabetes lead to similar outcomes as hospital admission?,REFUTED,NOT ENOUGH INFORMATION
+1368,Is conservative treatment effective for patients with mild to moderate whiplash injuries?,NOT ENOUGH INFORMATION,--
+1369,Do NSAIDs negatively affect renal function in adults with normal preoperative renal function after surgery?,REFUTED,SUPPORTED
+1370,Is local corticosteroid injection effective for treating carpal tunnel syndrome?,REFUTED,--
+1371,Are disposable insert pads more effective for women with light urinary incontinence than other absorbent products?,SUPPORTED,--
+1372,Do surgical interventions for lumbar disc prolapse provide better outcomes than conservative treatments?,NOT ENOUGH INFORMATION,--
+1373,Is surgical treatment more effective than conservative treatment for acute ankle ligament injuries?,SUPPORTED,--
+1374,Does screening and treating children with otitis media with effusion improve language and behavioral outcomes in early childhood?,NOT ENOUGH INFORMATION,--
+1375,Does recombinant human growth hormone improve growth in girls with Turner syndrome?,NOT ENOUGH INFORMATION,--
+1376,Do certain medications help prevent oral candidiasis in cancer patients undergoing treatment?,SUPPORTED,--
+1377,Does cyclophosphamide slow the progression of multiple sclerosis?,SUPPORTED,--
+1378,Is amantadine effective in treating fatigue in people with Multiple Sclerosis?,NOT ENOUGH INFORMATION,REFUTED
+1379,Does amphetamine treatment improve recovery in stroke patients?,REFUTED,--
+1380,Is molindone effective for treating schizophrenia compared to other antipsychotics?,SUPPORTED,--
+1381,Is fluspirilene more effective than other antipsychotic treatments for schizophrenia?,NOT ENOUGH INFORMATION,--
+1382,Does non-medical day centre care improve outcomes for people with severe mental illness?,SUPPORTED,--
+1383,Are long acting beta-2 agonists effective for controlling asthma symptoms?,NOT ENOUGH INFORMATION,SUPPORTED
+1384,Does screening for colorectal cancer using the faecal occult blood test reduce mortality from the disease?,NOT ENOUGH INFORMATION,--
+1385,Is surgery an effective treatment for tubal ectopic pregnancy?,SUPPORTED,--
+1386,Does danazol improve live birth rates in women with unexplained subfertility?,NOT ENOUGH INFORMATION,REFUTED
+1387,Is TIPS more effective than paracentesis for treating refractory ascites in patients with cirrhosis?,SUPPORTED,--
+1388,Do monoaminergic agents improve recovery outcomes after traumatic brain injury?,NOT ENOUGH INFORMATION,SUPPORTED
+1389,Do different hemoglobin targets affect the risk of death in patients with chronic kidney disease receiving treatment for anemia?,REFUTED,--
+1390,Do anticholinergic drugs help treat neuroleptic-induced acute akathisia?,REFUTED,--
+1391,Can pharmacological interventions effectively treat psychosis-related polydipsia?,SUPPORTED,NOT ENOUGH INFORMATION
+1392,Can complementary and alternative therapies help manage pain during labor?,REFUTED,--
+1393,Do visibility aids improve the safety of pedestrians and cyclists in traffic?,REFUTED,--
+1394,Are drugs effective in managing agitation and aggression after brain injury?,REFUTED,NOT ENOUGH INFORMATION
+1395,Do anabolic-androgenic steroids have beneficial effects for patients with alcoholic liver disease?,NOT ENOUGH INFORMATION,--
+1396,Does adding heliox to standard treatment improve outcomes for patients with acute asthma?,REFUTED,SUPPORTED
+1397,Is zotepine effective for treating schizophrenia compared to other antipsychotic medications?,SUPPORTED,--
+1398,Is internal fixation a better treatment option than arthroplasty for displaced intracapsular femoral fractures?,SUPPORTED,--
+1399,Does early nutritional support improve outcomes after head injury?,SUPPORTED,--
+1400,Is phacoemulsification more effective than other surgical methods for treating age-related cataract?,SUPPORTED,--
+1401,Do supported housing schemes provide benefits for people with severe mental disorders compared to standard care?,NOT ENOUGH INFORMATION,--
+1402,Are immunosuppressive and cytotoxic agents effective in treating pulmonary sarcoidosis?,SUPPORTED,--
+1403,Are biphasic oral contraceptives less effective in cycle control compared to triphasic oral contraceptives?,REFUTED,--
+1404,Does calcitonin effectively control pain from bone metastases?,SUPPORTED,--
+1405,Do psychostimulants improve daytime sleepiness in patients with myotonic dystrophy?,SUPPORTED,--
+1406,Does wearing additional gloves during surgery help reduce infections in patients or the surgical team?,SUPPORTED,--
+1407,Is spinal manipulation an effective treatment for dysmenorrhoea?,NOT ENOUGH INFORMATION,REFUTED
+1408,Are biphasic oral contraceptives less effective than monophasic oral contraceptives in preventing pregnancy?,SUPPORTED,--
+1409,Does aerosolized diuretic administration improve outcomes in preterm infants with chronic lung disease?,NOT ENOUGH INFORMATION,--
+1410,Do potassium containing toothpastes help reduce dentine hypersensitivity?,NOT ENOUGH INFORMATION,--
+1411,Does patient support and education improve adherence to antiretroviral therapy in people living with HIV/AIDS?,NOT ENOUGH INFORMATION,--
+1412,Does therapeutic ultrasound help in healing pressure ulcers?,SUPPORTED,NOT ENOUGH INFORMATION
+1413,Do polyunsaturated fatty acids have an effect on schizophrenia symptoms?,SUPPORTED,--
+1414,Is continuous positive airway pressure (CPAP) effective in treating obstructive sleep apnoea in adults?,REFUTED,NOT ENOUGH INFORMATION
+1415,Are long acting beta-2 adrenoceptor agonists effective for COPD patients with poor response to short-acting bronchodilators?,REFUTED,SUPPORTED
+1416,Does regular aerobic exercise during pregnancy improve physical fitness without significant risks to mother or infant?,SUPPORTED,--
+1417,Is viscosupplementation an effective treatment for knee osteoarthritis?,NOT ENOUGH INFORMATION,--
+1418,Is risperidone more effective than olanzapine for treating schizophrenia?,REFUTED,NOT ENOUGH INFORMATION
+1419,Is low level laser therapy effective when combined with antituberculous drugs for treating tuberculosis?,NOT ENOUGH INFORMATION,SUPPORTED
+1420,Do corticosteroids help induce labor in pregnant women?,SUPPORTED,--
+1421,Does hyaluronidase injection help with cervical ripening or labor induction?,NOT ENOUGH INFORMATION,--
+1422,Do community animal health services improve household wealth and health?,SUPPORTED,--
+1423,Do developmental care interventions improve outcomes for preterm infants?,NOT ENOUGH INFORMATION,--
+1424,Do amantadine and rimantadine effectively treat symptoms of influenza A in healthy adults?,SUPPORTED,--
+1425,Does tubal surgery improve fertility in women with damaged fallopian tubes?,NOT ENOUGH INFORMATION,REFUTED
+1426,Is replacement arthroplasty better than internal fixation for treating extracapsular hip fractures?,SUPPORTED,--
+1427,Do oral appliances help improve symptoms of obstructive sleep apnoea-hypopnoea in adults?,SUPPORTED,--
+1428,Are NSAIDs more effective than acetaminophen for treating osteoarthritis pain?,SUPPORTED,REFUTED
+1429,Are nonlatex male condoms an effective alternative to latex condoms for contraception?,SUPPORTED,--
+1430,Does routinely administering cotrimoxazole reduce death and illness in children with HIV?,SUPPORTED,--
+1431,Can media-based cognitive-behavioural therapies effectively improve behaviour in children with disorders?,SUPPORTED,--
+1432,Does galantamine have positive effects on patients with mild cognitive impairment or Alzheimer's disease?,SUPPORTED,--
+1433,Are inhaled corticosteroids delivered via nebuliser more effective than those delivered via holding chamber for treating chronic asthma?,NOT ENOUGH INFORMATION,SUPPORTED
+1434,Do Interactive Health Communication Applications improve outcomes for people with chronic disease?,NOT ENOUGH INFORMATION,REFUTED
+1435,Does acupuncture or electroacupuncture help reduce disease activity in rheumatoid arthritis patients?,REFUTED,--
+1436,Is art therapy beneficial as an additional treatment for schizophrenia?,NOT ENOUGH INFORMATION,--
+1437,Does vaginal disinfection reduce the risk of mother-to-child transmission of HIV?,REFUTED,--
+1438,Do cardioselective beta-blockers have adverse effects on respiratory function in patients with COPD?,SUPPORTED,--
+1439,Is extracorporeal shock wave therapy effective for treating lateral elbow pain?,NOT ENOUGH INFORMATION,SUPPORTED
+1440,Is vitamin B6 and magnesium effective in treating autism symptoms?,NOT ENOUGH INFORMATION,--
+1441,Does acyclovir help reduce symptoms and duration of chickenpox in children?,NOT ENOUGH INFORMATION,--
+1442,Does using intraoperative Mitomycin C during trabeculectomy improve surgical outcomes compared to placebo?,REFUTED,--
+1443,Does heparin improve the duration of peripheral intravenous catheter use compared to no treatment?,REFUTED,--
+1444,Is Low Level Laser Therapy effective for treating rheumatoid arthritis?,REFUTED,--
+1445,Does long-term antiplatelet therapy help prevent strokes in patients with non-valvular atrial fibrillation?,SUPPORTED,--
+1446,Does carotid endarterectomy reduce the risk of stroke in patients with asymptomatic carotid stenosis?,SUPPORTED,--
+1447,Is surgical interruption of pelvic nerve pathways an effective treatment for dysmenorrhoea?,SUPPORTED,--
+1448,Does adding radiotherapy before surgery improve survival in patients with esophageal cancer?,NOT ENOUGH INFORMATION,--
+1449,Does domiciliary oxygen therapy improve survival in patients with severe hypoxaemia due to COPD?,SUPPORTED,--
+1450,Is vitamin A therapy beneficial in reducing mortality and complications in children with measles?,SUPPORTED,--
+1451,Is there scientific evidence supporting the effectiveness of surgical interventions for degenerative lumbar spondylosis?,SUPPORTED,--
+1452,Does surgery improve symptoms of obstructive sleep apnoea/hypopnoea syndrome in adults?,NOT ENOUGH INFORMATION,--
+1453,Is the combination of amodiaquine plus sulfadoxine-pyrimethamine more effective than sulfadoxine-pyrimethamine alone for treating uncomplicated falciparum malaria?,SUPPORTED,NOT ENOUGH INFORMATION
+1454,Does hepatitis B vaccination provide protection for health-care workers?,NOT ENOUGH INFORMATION,SUPPORTED
+1455,Is breast stimulation effective for inducing labour in pregnant women?,NOT ENOUGH INFORMATION,--
+1456,Do synthetic haemodialysis membranes provide better outcomes than cellulose-based membranes for patients with end-stage renal disease?,REFUTED,NOT ENOUGH INFORMATION
+1457,Does high dose chemotherapy with autologous stem cell transplantation improve overall survival for women with metastatic breast cancer?,REFUTED,NOT ENOUGH INFORMATION
+1458,Does concomitant chemoradiotherapy improve survival in locally advanced cervical cancer?,SUPPORTED,--
+1459,Do oral anticoagulants reduce the risk of stroke in patients with chronic atrial fibrillation?,REFUTED,--
+1460,Are adrenergic agonists effective for treating urinary incontinence in adults?,NOT ENOUGH INFORMATION,REFUTED
+1461,Do depot antipsychotics like perphenazine decanoate and enanthate have better outcomes for people with schizophrenia compared to other treatments?,SUPPORTED,NOT ENOUGH INFORMATION
+1462,Is sertindole more effective than placebo for treating schizophrenia?,REFUTED,--
+1463,Do patients undergoing appendectomy benefit from antibiotic prophylaxis?,NOT ENOUGH INFORMATION,--
+1464,Is anti-cholinergic therapy effective for treating wheezing in infants?,SUPPORTED,--
+1465,Does glucocorticosteroid pretreatment improve the effectiveness of alfa interferon in treating chronic hepatitis B?,REFUTED,NOT ENOUGH INFORMATION
+1466,Is exercise therapy effective for treating low-back pain in adults?,NOT ENOUGH INFORMATION,SUPPORTED
+1467,Is benperidol effective and safe for treating schizophrenia and similar psychoses?,REFUTED,--
+1468,Does prostacyclin improve outcomes in patients with idiopathic primary pulmonary hypertension?,NOT ENOUGH INFORMATION,SUPPORTED
+1469,Is glucosamine effective in treating pain and function in osteoarthritis?,REFUTED,--
+1470,Does neuromuscular paralysis improve outcomes for newborns on mechanical ventilation?,NOT ENOUGH INFORMATION,SUPPORTED
+1471,Is colchicine effective for treating liver fibrosis or cirrhosis?,NOT ENOUGH INFORMATION,--
+1472,Do different surgical approaches and techniques affect the outcomes of intracapsular hip fracture fixation?,SUPPORTED,--
+1473,Is olanzapine effective for treating schizophrenia compared to other antipsychotic medications?,SUPPORTED,NOT ENOUGH INFORMATION
+1474,Does adding intravenous aminophylline improve outcomes in children with acute severe asthma receiving standard treatment?,SUPPORTED,--
+1475,Do corticosteroids provide a benefit in treating pulmonary sarcoidosis?,NOT ENOUGH INFORMATION,--
+1476,Is there evidence that manual therapies are effective for treating asthma?,SUPPORTED,--
+1477,Is percutaneous transluminal angioplasty with or without stenting safe and effective for treating vertebral artery stenosis?,REFUTED,--
+1478,Do shock absorbing inserts in footwear help reduce stress fractures in active young adults?,SUPPORTED,NOT ENOUGH INFORMATION
+1479,Does CDP-choline improve cognitive and behavioral deficits in the elderly with chronic cerebral disorders?,SUPPORTED,--
+1480,Can family therapy help improve asthma symptoms in children when combined with medication?,REFUTED,--
+1481,Does electroconvulsive therapy provide meaningful benefits for people with schizophrenia?,NOT ENOUGH INFORMATION,SUPPORTED
+1482,Is there a significant difference in efficacy and adverse effects between human and animal insulin?,REFUTED,NOT ENOUGH INFORMATION
+1483,Is rofecoxib effective for treating rheumatoid arthritis compared to placebo?,SUPPORTED,--
+1484,Does the frameless IUD Gynefix reduce the risk of expulsion and pregnancy compared to traditional IUDs?,SUPPORTED,--
+1485,Are medical methods for first-trimester abortion as effective as surgical methods?,NOT ENOUGH INFORMATION,--
+1486,Is inhaled beclomethasone dipropionate effective in treating chronic asthma?,SUPPORTED,--
+1487,Do interventions with retailers reduce underage access to tobacco products?,SUPPORTED,--
+1488,Is acupuncture effective for treating chronic low-back pain?,SUPPORTED,--
+1489,Does the polysaccharide serogroup A vaccine effectively prevent serogroup A meningococcal meningitis in children and adults?,NOT ENOUGH INFORMATION,--
+1490,Are corticosteroids effective and safe for treating acute traumatic brain injury?,NOT ENOUGH INFORMATION,--
+1491,Is continuous ambulatory peritoneal dialysis beneficial compared to hospital or home haemodialysis for adults with end-stage renal disease?,NOT ENOUGH INFORMATION,--
+1492,Do different methods of chest drain clearance help prevent cardiac tamponade after cardiac surgery?,SUPPORTED,REFUTED
+1493,Is oral hormone therapy effective in reducing hot flushes and night sweats in menopausal women?,REFUTED,--
+1494,Do stroke care pathways improve outcomes for patients with acute stroke compared to standard medical care?,REFUTED,--
+1495,Is clotiapine effective in controlling disturbed behavior in acute psychotic illnesses compared to other treatments?,SUPPORTED,NOT ENOUGH INFORMATION
+1496,Is depot pipotiazine palmitate an effective treatment option for people with schizophrenia?,NOT ENOUGH INFORMATION,--
+1497,Is volume expansion therapy effective for improving outcomes in patients with aneurysmal subarachnoid haemorrhage?,NOT ENOUGH INFORMATION,SUPPORTED
+1498,Are back schools effective for treating non-specific low-back pain?,NOT ENOUGH INFORMATION,--
+1499,Is anticoagulant therapy more effective than antiplatelet therapy for preventing stroke in people with nonrheumatic atrial fibrillation and a history of transient ischemic attack or minor stroke?,NOT ENOUGH INFORMATION,REFUTED
+1500,Does intravenous fluid preloading before regional analgesia during labor improve maternal and fetal well-being?,SUPPORTED,NOT ENOUGH INFORMATION
+1501,Does extra-abdominal repair of the uterine incision reduce postoperative complications compared to intra-abdominal repair?,NOT ENOUGH INFORMATION,--
+1502,Does Doxapram treatment reduce apnea in preterm infants without significant side effects?,SUPPORTED,--
+1503,Do antipsychotic medications have an effect on people with both learning disability and schizophrenia compared to placebo?,SUPPORTED,--
+1504,Are approved anti-obesity medications effective for long-term weight loss?,REFUTED,NOT ENOUGH INFORMATION
+1505,Does a high loading dose of quinine improve outcomes in severe malaria?,SUPPORTED,--
+1506,Does hypertonic crystalloid reduce mortality in patients with hypovolaemia?,NOT ENOUGH INFORMATION,--
+1507,Do interventions for problem drinking reduce the risk of injuries?,NOT ENOUGH INFORMATION,--
+1508,Do hormonally impregnated intrauterine systems provide effective contraception compared to other methods?,REFUTED,--
+1509,Is laparoscopic tubal sterilisation safer than minilaparotomy?,SUPPORTED,REFUTED
+1510,Do azoles improve the treatment outcomes for allergic bronchopulmonary aspergillosis?,SUPPORTED,--
+1511,Does topical cord care help prevent umbilical cord infection in newborns?,REFUTED,--
+1512,Do aversive methods like rapid smoking help smokers quit?,SUPPORTED,--
+1513,Is antipsychotic medication effective for managing challenging behavior in people with learning disabilities without additional mental illness?,NOT ENOUGH INFORMATION,--
+1514,Does theophylline improve outcomes in people with acute ischaemic stroke?,REFUTED,--
+1515,Are low-dose corticosteroids effective for treating rheumatoid arthritis in the short term?,SUPPORTED,--
+1516,Does prostacyclin treatment improve survival in people with acute ischaemic stroke?,SUPPORTED,REFUTED
+1517,Do methylxanthines have an effect on patients with acute ischaemic stroke?,NOT ENOUGH INFORMATION,--
+1518,Is clonidine effective in helping smokers to quit?,REFUTED,NOT ENOUGH INFORMATION
+1519,Is H. pylori eradication therapy more effective than antisecretory therapy in preventing recurrent bleeding from peptic ulcers?,SUPPORTED,--
+1520,Does adding anti-leukotriene agents to inhaled corticosteroids improve asthma control?,NOT ENOUGH INFORMATION,--
+1521,Does primary resection offer better outcomes than staged resection for patients with obstruction from left colorectal carcinoma?,NOT ENOUGH INFORMATION,--
+1522,Does early volume expansion improve outcomes in very preterm infants?,SUPPORTED,--
+1523,Is quetiapine effective for treating schizophrenia compared to placebo and other antipsychotics?,SUPPORTED,--
+1524,Does massage therapy improve weight gain and discharge times for preterm infants?,SUPPORTED,--
+1525,Are anticoagulants effective for preventing recurrent strokes in patients with nonrheumatic atrial fibrillation after a transient ischaemic attack or minor stroke?,NOT ENOUGH INFORMATION,--
+1526,Does intravenous glycerol treatment improve survival rates in acute stroke patients?,SUPPORTED,REFUTED
+1527,Does restricting dietary sodium have long-term benefits for people with elevated blood pressure?,NOT ENOUGH INFORMATION,--
+1528,Are antidepressants more effective than active placebos?,SUPPORTED,--
+1529,Is nitrate therapy effective for treating achalasia?,NOT ENOUGH INFORMATION,--
+1530,Is bladder training effective for treating urinary incontinence?,NOT ENOUGH INFORMATION,SUPPORTED
+1531,Is pulsatile GnRH treatment effective for inducing ovulation in women with polycystic ovary syndrome?,REFUTED,--
+1532,Does homeopathy have an effect on chronic stable asthma?,SUPPORTED,--
+1533,Does ergometrine-oxytocin reduce the risk of postpartum hemorrhage compared to oxytocin?,REFUTED,--
+1534,Is acupuncture effective for treating asthma?,NOT ENOUGH INFORMATION,--
